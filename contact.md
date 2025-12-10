@@ -9,7 +9,7 @@ You can reach me at:
 
 - **Email:** your.email@unr.edu  
 - **GitHub:** [@ChloeCollierAllen](https://github.com/ChloeCollierAllen)  
-- **(Optional)** LinkedIn: [Your Name](https://www.linkedin.com/in/your-link/)  
+- **(Optional)** LinkedIn: [Chloe Collier-Allen](https://www.linkedin.com/in/chloe-collier-7632491a9/)  
 
 
 ## Where to next?
