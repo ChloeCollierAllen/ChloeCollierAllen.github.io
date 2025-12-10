@@ -19,6 +19,8 @@ GitHub: [@ChloeCollierAllen](https://github.com/ChloeCollierAllen)
 
 Location: Reno, Nevada
 
+[Downloadable PDF coming soon](/cv.pdf) · [Contact](./contact)
+
 ---
 
 ## Profile
