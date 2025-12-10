@@ -8,33 +8,35 @@
   display: none !important;
 }
 
+/* Hide the original Merlot header ribbon */
+.page-header {
+  display: none !important;
+}
+
 /* ================================
-   SAGE + CREAM BANNER THEME
+   NEW SAGE + CREAM BANNER
    ================================ */
 
-/* Banner background */
-.page-header {
-  background-color: #9CAF88 !important; /* soft sage */
-  background-image: none !important;
-  padding: 3rem 1rem;
-  border-bottom: 4px solid #7F8F6D; /* deep sage accent */
+.custom-banner {
+  background-color: #9CAF88;      /* soft sage */
+  color: #FFF8E7;                 /* cream text */
+  padding: 2.5rem 1rem;
   text-align: center;
+  border-bottom: 4px solid #7F8F6D; /* deeper sage accent */
 }
 
-/* Name (main title) */
-.page-header .project-name {
+.custom-banner-title {
   font-family: "Georgia", serif;
-  font-size: 3.5rem;
-  letter-spacing: 0.05em;
-  color: #FFF8E7 !important; /* cream text */
-  text-transform: none;      /* keep natural capitalization */
-  text-shadow: 1px 1px 3px #7F8F6D; /* subtle deep sage shadow */
+  font-size: 3rem;
+  letter-spacing: 0.06em;
+  margin: 0;
+  text-transform: none;
 }
 
-/* Tagline ("Personal website") */
-.page-header .project-tagline {
+.custom-banner-subtitle {
   font-family: "Georgia", serif;
-  font-size: 1.3rem;
-  color: #F3E9D2 !important; /* warm beige */
+  font-size: 1.2rem;
+  margin: 0.5rem 0 0;
+  color: #F3E9D2;                 /* warm beige */
   font-style: italic;
 }
