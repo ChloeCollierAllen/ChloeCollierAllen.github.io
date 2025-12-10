@@ -8,23 +8,18 @@
   display: none !important;
 }
 
-/* Sage + cream header (Merlot banner area) */
+/* Sage + cream banner */
 .page-header {
-  background-color: #9CAF88 !important; /* sage */
-  background-image: none !important;    /* remove blue banner graphic */
-  border-bottom: 4px solid #7F8F6D;     /* darker sage accent */
-  padding: 3rem 1rem;
-  text-align: center;
+  background-color: #9CAF88 !important;  /* sage */
+  background-image: none !important;     /* remove blue graphic */
 }
 
-/* Main name in header */
 .page-header .project-name {
-  color: #FFF8E7 !important;            /* cream text */
+  color: #FFF8E7 !important;             /* cream text */
   text-transform: none;
 }
 
-/* Tagline ("Personal website") in header */
 .page-header .project-tagline {
-  color: #F3E9D2 !important;            /* warm beige/cream */
+  color: #F3E9D2 !important;             /* warm beige */
   font-style: italic;
 }
