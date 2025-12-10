@@ -4,3 +4,7 @@ plugins:
 
 title: Chloe Collier Allen
 description: Personal website
+
+github:
+  is_project_page: false
+
