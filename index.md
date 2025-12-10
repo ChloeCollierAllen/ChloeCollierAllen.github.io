@@ -4,8 +4,12 @@ title: Home
 ---
 
 <div class="custom-banner">
-  <h1 class="custom-banner-title">Chloe Collier Allen</h1>
-  <p class="custom-banner-tagline">Personal website</p>
+  <div class="custom-banner-title">
+    Chloe Collier Allen
+  </div>
+  <div class="custom-banner-tagline">
+    Personal website
+  </div>
 </div>
 
 
