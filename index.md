@@ -52,3 +52,8 @@ pinyon pine stands and support Tribal food sovereignty initiatives.
 - Email: chloecollier673@gmail.com 
 - GitHub: [@ChloeCollierAllen](https://github.com/ChloeCollierAllen)
 
+--
+
+[View my CV →](./cv)
+
+
