@@ -3,43 +3,28 @@
 
 @import "{{ site.theme }}";
 
-/* FORCE-HIDE the Merlot header ribbon */
-body .page-header,
-.page-header,
-.site-header,
-header.page-header {
+/* Hide the GitHub "Fork me" ribbon */
+#forkme_banner {
   display: none !important;
-  visibility: hidden !important;
-  height: 0 !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  border: none !important;
 }
 
-/* ================================
-   NEW SAGE + CREAM BANNER
-   ================================ */
-
-.custom-banner {
-  background-color: #9CAF88;      /* soft sage */
-  color: #FFF8E7;                 /* cream text */
-  padding: 2.5rem 1rem;
+/* Sage + cream header (Merlot banner area) */
+.page-header {
+  background-color: #9CAF88 !important; /* sage */
+  background-image: none !important;    /* remove blue banner graphic */
+  border-bottom: 4px solid #7F8F6D;     /* darker sage accent */
+  padding: 3rem 1rem;
   text-align: center;
-  border-bottom: 4px solid #7F8F6D; /* deeper sage accent */
 }
 
-.custom-banner-title {
-  font-family: "Georgia", serif;
-  font-size: 3rem;
-  letter-spacing: 0.06em;
-  margin: 0;
+/* Main name in header */
+.page-header .project-name {
+  color: #FFF8E7 !important;            /* cream text */
   text-transform: none;
 }
 
-.custom-banner-subtitle {
-  font-family: "Georgia", serif;
-  font-size: 1.2rem;
-  margin: 0.5rem 0 0;
-  color: #F3E9D2;                 /* warm beige */
+/* Tagline ("Personal website") in header */
+.page-header .project-tagline {
+  color: #F3E9D2 !important;            /* warm beige/cream */
   font-style: italic;
 }
