@@ -21,12 +21,10 @@ Location: Reno, Nevada
 
 [Downloadable PDF coming soon](/cv.pdf) · [Contact](./contact)
 
----
 
 ## Profile
 **I have a Bachelor of Science from the University of Nevada, Reno (UNR) with a minor in anthropology. I am currently a PhD candidate through UNR’s Ecology, Evolution, and Conservation Biology (EECB) program studying how anthropogenic climate change factors such as fire events and drought are altering single leaf pinyon pine community structure, terpene diversity, and how it is affecting indigenous groups who view the pinyon pine as a culturally significant species within the Great Basin.**
 
---
 
 ## Education
 **University of Nevada: PhD of Ecology, Evolution, and Conservation Biology (2021-current)**  
@@ -43,7 +41,6 @@ Location: Reno, Nevada
 -Participated in Kichuwa cultural activities
 -Field research involving herbivory rates on endemic plants
 
---
 
 ## Experience
 **Lead Field Research, Earthwatch (July 2023)**  
@@ -62,7 +59,6 @@ Location: Reno, Nevada
 **Field Research Technician, Earthwatch (June 2019- July 2019)**  
 -Collected field data for HerbVar (a global study of variability in herbivory) in Ecuador
 
---
 
 ## Skills
 **Experienced in writing reports, managing project deadlines, and working autonomously**
@@ -75,12 +71,10 @@ Location: Reno, Nevada
 
 **Ability to run GC-MS and NMR Instruments**
 
---
 
 ## Publications 
 **“Good Things Come in Larger Packages: Size Matters for Adult Fruit-Feeding Butterfly Dispersal and Larval Diet Breadth,” Diversity, December 2021**
 
---
 
 ## Outreach and Service
 **Member of Bi-State Tribal Natural Resources Committee (BTNRC) (Fall 2022-current)**  
@@ -119,7 +113,6 @@ Location: Reno, Nevada
 -Reared diverse species of caterpillar for display and for educational purposes for the museum
 
 
---
 
 ## Conferences and Symposiums
 **Entomology Society of America Conference (November 2025)**  
@@ -137,7 +130,6 @@ Location: Reno, Nevada
 -Presented a poster on how extreme fire events are affecting terpenes and arthropod diversity within pinyon pines of the Great Basin 
 
 
---
 
 ## Scholarships, Fellowships, and Grants 
 **Diana Hadley-Lynch Scholarship (Fall 2024-Spring 2025)**
