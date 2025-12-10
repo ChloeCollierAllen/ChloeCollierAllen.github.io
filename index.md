@@ -7,7 +7,7 @@ title: Home
 
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology
 
-Welcome! My name is Chloe and I am a 5th year PhD candidate at the University of Nevada, Reno studying how anthropogenic climate change is severally impacting the community structure of Pinus monophyla found within the Great Basin. 
+Welcome! My name is Chloe and I am a 5th year PhD candidate at the University of Nevada, Reno studying how anthropogenic climate change is severally impacting the community structure of _italics_Pinus monophyla found within the Great Basin. 
 
 ---
 
