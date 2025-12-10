@@ -3,14 +3,17 @@
 
 @import "{{ site.theme }}";
 
-/* Hide GitHub ribbon */
-#forkme_banner {
+/* FORCE-HIDE the Merlot header ribbon */
+body .page-header,
+.page-header,
+.site-header,
+header.page-header {
   display: none !important;
-}
-
-/* Hide the original Merlot header ribbon */
-.page-header {
-  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
 }
 
 /* ================================
