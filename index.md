@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-
 # Chloe Collier Allen
 
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
@@ -46,6 +45,3 @@ I collaborate with Indigenous entities to help preserve the culturally important
 - GitHub: [@ChloeCollierAllen](https://github.com/ChloeCollierAllen)
 
 [View my CV →](./cv)
-
-
-
