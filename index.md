@@ -4,6 +4,18 @@ layout: default
 title: Home
 ---
 
+<nav style="text-align:center; margin-bottom: 1.5rem;">
+  <a href="/" style="margin: 0 0.75rem; text-decoration: none;">Home</a>
+  <a href="/cv" style="margin: 0 0.75rem; text-decoration: none;">CV</a>
+  <a href="/research" style="margin: 0 0.75rem; text-decoration: none;">Research</a>
+  <a href="/contact" style="margin: 0 0.75rem; text-decoration: none;">Contact</a>
+</nav>
+
+# Chloe Collier Allen
+
+5th Year PhD Candidate • Ecology • Chemistry • Anthropology
+
+
 # Chloe Collier Allen
 
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
