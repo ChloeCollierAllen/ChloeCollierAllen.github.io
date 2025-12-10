@@ -48,8 +48,4 @@ I collaborate with Indigenous entities to help preserve the culturally important
 [View my CV →](./cv)
 
 
---
-
-[View my CV →](./cv)
-
 
