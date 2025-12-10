@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+---
 
 # Chloe Collier Allen
 
