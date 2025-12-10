@@ -1,6 +1,7 @@
+# cv.md
 ---
 layout: default
-title: Curriculum Vitae
+title: CV
 ---
 
 # Curriculum Vitae
