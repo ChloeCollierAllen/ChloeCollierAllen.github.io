@@ -1,6 +1,5 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
 /* Hide the GitHub "Fork me" ribbon */
@@ -8,18 +7,33 @@
   display: none !important;
 }
 
-/* Sage + cream banner */
+/* Hide the original Merlot header banner */
 .page-header {
-  background-color: #9CAF88 !important;  /* sage */
-  background-image: none !important;     /* remove blue graphic */
+  display: none !important;
 }
 
-.page-header .project-name {
-  color: #FFF8E7 !important;             /* cream text */
-  text-transform: none;
+/* ===== Custom sage + cream banner ===== */
+
+.custom-banner {
+  max-width: 760px;
+  margin: 0 auto 2rem;
+  padding: 3rem 1.5rem 3.5rem;
+  background-color: #9CAF88;      /* sage */
+  color: #FFF8E7;                 /* cream */
+  text-align: center;
+  border-radius: 6px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
-.page-header .project-tagline {
-  color: #F3E9D2 !important;             /* warm beige */
+.custom-banner-title {
+  font-size: 3rem;
+  margin: 0 0 0.5rem;
+  letter-spacing: 0.04em;
+}
+
+.custom-banner-tagline {
+  font-size: 1.4rem;
+  margin: 0;
   font-style: italic;
+  color: #F3E9D2;                 /* warm beige */
 }
