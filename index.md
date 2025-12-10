@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Chloe Collier Allen
-
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
 
 [Home](./) · [CV](./cv) · [Research](./research) · [Contact](./contact)
