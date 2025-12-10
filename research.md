@@ -20,3 +20,5 @@ I work with the Hitchcock Center for Chemical Ecology to analyze terpene
 profiles in pinyon pine needles and relate these to herbivory and fire history.
 
 (More details, figures, and links coming soon.)
+
+- [Return to Home](./)
