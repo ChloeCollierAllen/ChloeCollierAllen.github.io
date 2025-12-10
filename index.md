@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+<div class="custom-banner">
+  <h1 class="custom-banner-title">Chloe Collier Allen</h1>
+  <p class="custom-banner-subtitle">Personal website</p>
+</div>
+
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
 
 [Home](./) · [CV](./cv) · [Research](./research) · [Contact](./contact)
