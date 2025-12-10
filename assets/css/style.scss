@@ -40,3 +40,16 @@ header.page-header,
   color: #F3E9D2;                 /* warm beige */
 }
 
+.main-nav {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.main-nav a {
+  color: #3b5b4a;        /* darker sage */
+  font-weight: 600;
+}
+
+.main-nav a:hover {
+  text-decoration: underline;
+}
