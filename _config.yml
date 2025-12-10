@@ -10,10 +10,6 @@ header_pages:
   - cv.md
   - research.md
   - contact.md
-
-github:
-  is_project_page: false
-
   github:
+  is_project_page: false
   is_user_page: true
-
