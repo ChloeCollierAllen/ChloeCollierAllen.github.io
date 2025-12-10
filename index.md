@@ -12,10 +12,6 @@ title: Home
   </div>
 </div>
 
-<p class="main-nav">
-  [Home](./) · [CV](./cv) · [Research](./research) · [Contact](./contact)
-</p>
-
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
 
 [Home](./) · [CV](./cv) · [Research](./research) · [Contact](./contact)
