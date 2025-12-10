@@ -7,3 +7,45 @@
 #forkme_banner {
   display: none !important;
 }
+
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide GitHub ribbon */
+#forkme_banner {
+  display: none !important;
+}
+
+/* ================================
+   SAGE + CREAM BANNER THEME
+   ================================ */
+
+/* Banner background */
+.page-header {
+  background-color: #9CAF88 !important; /* soft sage */
+  background-image: none !important;
+  padding: 3rem 1rem;
+  border-bottom: 4px solid #7F8F6D; /* deep sage accent */
+  text-align: center;
+}
+
+/* Name (main title) */
+.page-header .project-name {
+  font-family: "Georgia", serif;
+  font-size: 3.5rem;
+  letter-spacing: 0.05em;
+  color: #FFF8E7 !important; /* cream text */
+  text-transform: none;      /* keep natural capitalization */
+  text-shadow: 1px 1px 3px #7F8F6D; /* subtle deep sage shadow */
+}
+
+/* Tagline ("Personal website") */
+.page-header .project-tagline {
+  font-family: "Georgia", serif;
+  font-size: 1.3rem;
+  color: #F3E9D2 !important; /* warm beige */
+  font-style: italic;
+}
+
