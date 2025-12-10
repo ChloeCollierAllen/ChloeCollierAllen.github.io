@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>My Website</title>
-</head>
-<body>
-  <h1>Hello, world!</h1>
-  <p>This is my first GitHub Pages site.</p>
-</body>
-</html>
+---
+layout: default
+title: Home
+---
+
+# Welcome
+
+This is my personal website. More content coming soon.
