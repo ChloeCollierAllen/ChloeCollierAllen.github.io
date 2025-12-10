@@ -3,16 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Hide the diagonal GitHub ribbon */
-#forkme_banner {
-  display: none !important;
-}
-
----
----
-
-@import "{{ site.theme }}";
-
 /* Hide GitHub ribbon */
 #forkme_banner {
   display: none !important;
@@ -48,4 +38,3 @@
   color: #F3E9D2 !important; /* warm beige */
   font-style: italic;
 }
-
