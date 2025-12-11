@@ -99,3 +99,41 @@ h2, h3 {
   opacity: 0.95; /* soft vintage ink look */
 }
 
+.botanical-download {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  padding: 0.6rem 1.4rem;
+  margin-top: 1rem;
+
+  background: linear-gradient(#f7f2e4, #ede0c6);
+  border: 2px solid #c4b190;
+  border-radius: 999px; /* pill shape */
+
+  font-family: "Georgia", serif;
+  font-size: 0.98rem;
+  letter-spacing: 0.03em;
+  color: #4c3a25;
+  text-decoration: none;
+
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.18);
+  transition: transform 0.08s ease-out, box-shadow 0.08s ease-out,
+              background 0.15s ease-out;
+}
+
+.botanical-download::before {
+  content: "🌲";
+  font-size: 1.1rem;
+}
+
+.botanical-download:hover {
+  background: linear-gradient(#fdf7eb, #f0e3c9);
+  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.22);
+  transform: translateY(-1px);
+}
+
+.botanical-download:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.18);
+}
