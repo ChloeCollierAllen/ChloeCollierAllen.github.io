@@ -3,6 +3,10 @@ layout: default
 title: Research
 ---
 
+<div class="research-hero">
+  <h1>Research</h1>
+</div>
+
 # Research
 
 ## Pinyon Pine–Juniper Community Dynamics
