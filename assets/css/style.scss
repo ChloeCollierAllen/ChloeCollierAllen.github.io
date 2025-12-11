@@ -78,3 +78,10 @@ img {
 .site-footer a:hover {
   text-decoration: underline;
 }
+
+/* Light textured woodland-style side background */
+body {
+  background: #EFE9DD url('/assets/images/texture.png') repeat fixed;
+  background-size: 600px auto;
+  opacity: 0.98;
+}
