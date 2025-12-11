@@ -6,24 +6,29 @@
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
 
-<script>
-  const body = document.body;
-  const month = new Date().getMonth() + 1;
-
-  if (month >= 3 && month <= 5) {
-    body.classList.add("spring");
-  } else if (month >= 6 && month <= 8) {
-    body.classList.add("summer");
-  } else if (month >= 9 && month <= 11) {
-    body.classList.add("fall");
-  } else {
-    body.classList.add("winter");
-  }
-</script>
-  
 <body>
+
   <main class="page-content">
     {{ content }}
   </main>
+
+  <!-- Seasonal Icon Script -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const body = document.body;
+      const month = new Date().getMonth() + 1; // JavaScript months are 0–11
+
+      if (month >= 3 && month <= 5) {
+        body.classList.add("spring");
+      } else if (month >= 6 && month <= 8) {
+        body.classList.add("summer");
+      } else if (month >= 9 && month <= 11) {
+        body.classList.add("fall");
+      } else {
+        body.classList.add("winter");
+      }
+    });
+  </script>
+
 </body>
 </html>
