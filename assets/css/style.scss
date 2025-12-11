@@ -99,13 +99,27 @@ footer a:hover,
   text-decoration: underline;
 }
 
-/* Vintage naturalist-style frame */
-body::before {
+/* Decorative woodland corner marks */
+body::before,
+body::after {
   content: "";
   position: fixed;
-  inset: 0;
-  border: 18px solid #9CAF88;        /* sage */
-  box-shadow: 0 0 0 6px #F0E9DA inset; /* cream inner line */
+  width: 140px;
+  height: 140px;
+  background: url('/assets/images/corner-twig.png') no-repeat;
+  background-size: contain;
+  opacity: 0.35;
   pointer-events: none;
   z-index: 9999;
 }
+
+body::before {
+  top: 0;
+  left: 0;
+}
+
+body::after {
+  bottom: 0;
+  right: 0;
+}
+
