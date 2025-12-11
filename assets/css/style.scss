@@ -98,3 +98,14 @@ footer a:hover,
 .site-footer a:hover {
   text-decoration: underline;
 }
+
+/* Vintage naturalist-style frame */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  border: 18px solid #9CAF88;        /* sage */
+  box-shadow: 0 0 0 6px #F0E9DA inset; /* cream inner line */
+  pointer-events: none;
+  z-index: 9999;
+}
