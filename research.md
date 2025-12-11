@@ -14,6 +14,8 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 - Effects of changing temperature and precipitation patterns on tree health
 - Interactions between people, pinyon pines, and culturally important foods
 
+<div class="botanical-divider"></div>
+
 ## Chemical Ecology & Terpenes
 I work with the Hitchcock Center for Chemical Ecology to analyze terpene
 profiles in pinyon pine needles and relate these to herbivory and fire history.
