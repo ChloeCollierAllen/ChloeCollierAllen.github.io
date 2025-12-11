@@ -3,9 +3,7 @@
 
 @import "{{ site.theme }}";
 
-/* -----------------------------------------------------------
-   1. Remove default GitHub ribbon + Merlot header
------------------------------------------------------------ */
+/* 1. Hide GitHub "Fork me" ribbon and Merlot header */
 #forkme_banner {
   display: none !important;
 }
@@ -15,9 +13,7 @@ header.page-header,
   display: none !important;
 }
 
-/* -----------------------------------------------------------
-   2. Soft woodland background aesthetic
------------------------------------------------------------ */
+/* 2. Soft woodland background */
 body {
   background: radial-gradient(
     circle at top,
@@ -28,15 +24,13 @@ body {
   color: #3b2f24;
 }
 
-/* Center the page content */
+/* Center the main content */
 .page-content {
   max-width: 900px;
   margin: 0 auto;
 }
 
-/* -----------------------------------------------------------
-   3. GLOBAL IMAGE STYLE
------------------------------------------------------------ */
+/* 3. Global image styling */
 img {
   max-width: 100%;
   height: auto;
@@ -44,9 +38,7 @@ img {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
 
-/* -----------------------------------------------------------
-   4. NEW BOTANICAL BANNER STYLE
------------------------------------------------------------ */
+/* 4. Botanical hero banner */
 .hero-banner-wrapper {
   max-width: 960px;
   margin: 1.5rem auto 2.5rem;
@@ -60,6 +52,3 @@ img {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
 }
 
-/* -----------------------------------------------------------
-   (NO footer/ribbon overrides, no custom banners, no twigs)
------------------------------------------------------------ */
