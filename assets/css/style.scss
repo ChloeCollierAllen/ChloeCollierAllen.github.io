@@ -2,23 +2,27 @@
 ---
 @import "{{ site.theme }}";
 
-/* Hide the GitHub "Fork me" ribbon */
+/* 1. Hide the GitHub "Fork me" ribbon */
 #forkme_banner {
   display: none !important;
 }
 
-/* Hide the original Merlot header (maroon + blue ribbon) */
+/* 2. Hide the original Merlot header banner at the top */
 header.page-header,
 .page-header,
-.shell > header {
+.wrapper > header {
   display: none !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: 0 !important;
 }
 
-/* ===== Custom sage + cream banner ===== */
+/* 3. ===== Custom sage + cream banner (you already use this in index.md) ===== */
 
 .custom-banner {
   max-width: 760px;
-  margin: 0 auto 2rem;
+  margin: 2rem auto 2rem;
   padding: 3rem 1.5rem 3.5rem;
   background-color: #9CAF88;      /* sage */
   color: #FFF8E7;                 /* cream */
@@ -40,7 +44,7 @@ header.page-header,
   color: #F3E9D2;                 /* warm beige */
 }
 
-/* ===== Global image styling ===== */
+/* 4. Global image styling */
 
 img {
   border-radius: 6px;
@@ -49,7 +53,6 @@ img {
   height: auto;
 }
 
-/* Caption text under images */
 .captioned {
   text-align: center;
   font-size: 0.9rem;
@@ -57,20 +60,47 @@ img {
   margin-top: 0.5rem;
 }
 
-/* ===== Custom Sage Footer Banner ===== */
+/* 5. Sage side accents to fill the bare sides */
 
-/* The footer container */
-.site-footer {
-  background-color: #9CAF88 !important; /* sage */
-  color: #FFF8E7 !important;            /* cream */
-  padding: 1.5rem 0;
-  text-align: center;
-  border-top: 4px solid #6F8966;        /* darker sage accent */
+body {
+  background-color: #f4efe4;       /* warm neutral base */
+  position: relative;
 }
 
-/* Footer links (GitHub Pages, Merlot link) */
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 80px;                     /* side bar width */
+  background-color: #9CAF88;       /* sage */
+  opacity: 0.15;                   /* subtle */
+  z-index: -1;
+}
+
+body::before {
+  left: 0;
+}
+
+body::after {
+  right: 0;
+}
+
+/* 6. Sage footer to replace Merlot-colored one */
+
+footer.site-footer,
+.site-footer {
+  background-color: #9CAF88 !important; /* sage */
+  color: #FFF8E7 !important;            /* cream text */
+  padding: 1.5rem 0;
+  text-align: center;
+  border-top: 4px solid #6F8966 !important; /* darker sage border */
+}
+
+/* Footer links */
 .site-footer a {
-  color: #FFF8E7 !important;            /* keep links cream */
+  color: #FFF8E7 !important;
   text-decoration: none;
   font-weight: 500;
 }
@@ -79,9 +109,9 @@ img {
   text-decoration: underline;
 }
 
-/* Light textured woodland-style side background */
-body {
-  background: #EFE9DD url('/assets/images/texture.png') repeat fixed;
-  background-size: 600px auto;
-  opacity: 0.98;
+/* Remove the ribbon graphics behind the footer */
+.site-footer .ribbon,
+.site-footer .ribbon-inner {
+  background-image: none !important;
+  background-color: transparent !important;
 }
