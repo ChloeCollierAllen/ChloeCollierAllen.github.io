@@ -3,21 +3,22 @@
 
 @import "{{ site.theme }}";
 
-
-/* 1. Hide the GitHub "Fork me" ribbon and the original Merlot top banner */
+/* -----------------------------------------------------------
+   1. Remove default GitHub ribbon + Merlot header
+----------------------------------------------------------- */
 #forkme_banner {
   display: none !important;
 }
 
-/* Merlot’s big maroon + blue ribbon header */
 header.page-header,
 .page-header {
   display: none !important;
 }
 
-/* 2. Woodland-ish background + center the main content column */
+/* -----------------------------------------------------------
+   2. Soft woodland background aesthetic
+----------------------------------------------------------- */
 body {
-  /* soft greens + warm tan, like a faded sagebrush meadow */
   background: radial-gradient(
     circle at top,
     #dfe8d2 0%,
@@ -27,124 +28,38 @@ body {
   color: #3b2f24;
 }
 
-/* keep the content in a nice centered column */
+/* Center the page content */
 .page-content {
   max-width: 900px;
   margin: 0 auto;
 }
 
-/* 3. Custom sage + cream banner (the green name box) */
-
-.custom-banner {
-  max-width: 760px;
-  margin: 2rem auto 2rem;
-  padding: 3rem 1.5rem 3.5rem;
-  background-color: #9caf88;      /* sage */
-  color: #fff8e7;                 /* cream */
-  text-align: center;
-  border-radius: 6px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
-}
-
-.custom-banner-title {
-  font-size: 3rem;
-  margin: 0 0 0.5rem;
-  letter-spacing: 0.04em;
-}
-
-.custom-banner-tagline {
-  font-size: 1.4rem;
-  margin: 0;
-  font-style: italic;
-  color: #f3e9d2;                 /* warm beige */
-}
-
-/* 4. Global image styling so photos look nice */
-
+/* -----------------------------------------------------------
+   3. GLOBAL IMAGE STYLE
+----------------------------------------------------------- */
 img {
-  border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
   max-width: 100%;
   height: auto;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
 
-.captioned {
-  text-align: center;
-  font-size: 0.9rem;
-  color: #3b5b4a;                  /* dark sage */
-  margin-top: 0.5rem;
+/* -----------------------------------------------------------
+   4. NEW BOTANICAL BANNER STYLE
+----------------------------------------------------------- */
+.hero-banner-wrapper {
+  max-width: 960px;
+  margin: 1.5rem auto 2.5rem;
 }
 
-/* 5. Sage footer instead of Merlot maroon */
-
-footer,
-footer.site-footer,
-.site-footer {
-  background-color: #9caf88 !important;   /* sage */
-  background-image: none !important;      /* kill ribbon graphic */
-  color: #fff8e7 !important;              /* cream text */
-  padding: 1.5rem 0;
-  text-align: center;
-  border-top: 4px solid #6f8966 !important; /* darker sage border */
+.hero-banner {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
 }
 
-/* Footer links */
-footer a,
-.site-footer a {
-  color: #fff8e7 !important;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-footer a:hover,
-.site-footer a:hover {
-  text-decoration: underline;
-}
-
-/* Decorative woodland corner marks */
-body::before,
-body::after {
-  content: "";
-  position: fixed;
-  width: 140px;
-  height: 140px;
-  background: url('/assets/images/corner-twig.png') no-repeat;
-  background-size: contain;
-  opacity: 0.35;
-  pointer-events: none;
-  z-index: 9999;
-}
-
-body::before {
-  top: 0;
-  left: 0;
-}
-
-body::after {
-  bottom: 0;
-  right: 0;
-}
-
-/* Light sage twig corner decorations */
-body::before,
-body::after {
-  content: "";
-  position: fixed;
-  width: 140px;
-  height: 140px;
-  background: url('/assets/images/corner-twig.png') no-repeat center center;
-  background-size: contain;
-  opacity: 0.45;        /* soft, subtle woodland effect */
-  pointer-events: none;
-  z-index: 9999;
-}
-
-body::before {
-  top: 0;
-  left: 0;
-}
-
-body::after {
-  bottom: 0;
-  right: 0;
-}
+/* -----------------------------------------------------------
+   (NO footer/ribbon overrides, no custom banners, no twigs)
+----------------------------------------------------------- */
