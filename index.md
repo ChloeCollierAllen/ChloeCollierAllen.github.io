@@ -6,9 +6,9 @@ title: Home
 <!-- Botanical Hero Banner -->
 <div class="hero-banner-wrapper">
   <img
-    src="/assets/images/Banner.jpg"
-    alt="Chloe Collier-Allen, PhD Candidate"
-    class="hero-banner"
+  src="/assets/images/Banner.jpeg"
+  alt="Chloe Collier-Allen, PhD Candidate"
+  class="hero-banner"
   >
 </div>
 
