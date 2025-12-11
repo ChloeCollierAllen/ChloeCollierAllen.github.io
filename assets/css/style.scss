@@ -7,8 +7,10 @@
   display: none !important;
 }
 
-/* Hide the original Merlot header banner */
-.page-header {
+/* Hide the original Merlot header (maroon + blue ribbon) */
+header.page-header,
+.page-header,
+.shell > header {
   display: none !important;
 }
 
