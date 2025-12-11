@@ -1,6 +1,9 @@
-/* -------------------------------------------------------
-   GLOBAL BACKGROUND + PAGE WRAPPER
-------------------------------------------------------- */
+---
+---
+
+/* -------------------------------------------
+   2. Soft woodland background + centered column
+------------------------------------------- */
 body {
   background: radial-gradient(
     circle at top,
@@ -9,23 +12,16 @@ body {
     #efe2cf 100%
   );
   color: #3b2f24;
-  font-family: "Georgia", serif;
 }
 
 .page-content {
   max-width: 900px;
-  margin: 2rem auto;
-  background: #f7f2e4; /* warm parchment */
-  padding: 2.5rem;
-  border: 3px solid #c8b89a; 
-  border-radius: 12px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  margin: 0 auto;
 }
 
-
-/* -------------------------------------------------------
-   HERO BANNER
-------------------------------------------------------- */
+/* -------------------------------------------
+   3. Hero banner (vintage postcard image)
+------------------------------------------- */
 .hero-banner-wrapper {
   max-width: 960px;
   margin: 1.5rem auto 2.5rem;
@@ -33,16 +29,15 @@ body {
 
 .hero-banner {
   width: 100%;
+  height: auto;
   display: block;
   border-radius: 10px;
-  border: 4px solid #d9cbb3;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
 }
 
-
-/* -------------------------------------------------------
-   GLOBAL IMAGE STYLE
-------------------------------------------------------- */
+/* -------------------------------------------
+   4. Global image styling
+------------------------------------------- */
 img {
   max-width: 100%;
   height: auto;
@@ -50,6 +45,7 @@ img {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
 
+/* Optional: caption styling */
 .captioned {
   text-align: center;
   font-size: 0.9rem;
@@ -57,46 +53,87 @@ img {
   margin-top: 0.5rem;
 }
 
+.hero-banner {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+  border: 4px solid #d9cbb3; /* soft pine-needle beige */
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+}
 
-/* -------------------------------------------------------
-   SECTION HEADERS
-------------------------------------------------------- */
+.page-content {
+  max-width: 900px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.6);
+  padding: 2rem;
+  border-radius: 12px;
+  border: 2px solid #d8c8aa;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+}
+
 h2, h3 {
   border-bottom: 2px solid #d0c2a8;
   padding-bottom: 0.3rem;
-  margin-top: 2rem;
 }
 
+.page-content {
+  max-width: 900px;
+  margin: 2rem auto;
+  background: #f7f2e4; /* warm parchment tone */
+  padding: 2.5rem;
+  border: 3px solid #c8b89a; /* soft, vintage brown */
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15); /* gentle depth */
+  font-family: "Georgia", serif;
+}
 
-/* -------------------------------------------------------
-   BOTANICAL DIVIDER IMAGE
-------------------------------------------------------- */
 .botanical-divider {
   width: 100%;
-  height: 80px;
+  height: 80px; /* adjust to your liking */
   margin: 3rem 0;
   background-image: url('/assets/images/botanical-divider.png');
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 300px auto;
-  opacity: 0.95;
+  background-size: 300px auto; /* scale the art */
+  opacity: 0.95; /* soft vintage ink look */
 }
 
+.botanical-download {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
 
-/* -------------------------------------------------------
-   BOTANICAL DOWNLOAD BUTTON (BASE STYLE)
-------------------------------------------------------- */
+  padding: 0.6rem 1.4rem;
+  margin-top: 1rem;
+
+  background: linear-gradient(#f7f2e4, #ede0c6);
+  border: 2px solid #c4b190;
+  border-radius: 999px; /* pill shape */
+
+  font-family: "Georgia", serif;
+  font-size: 0.98rem;
+  letter-spacing: 0.03em;
+  color: #4c3a25;
+  text-decoration: none;
+
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.18);
+  transition: transform 0.08s ease-out, box-shadow 0.08s ease-out,
+              background 0.15s ease-out;
+}
+
 .botanical-download {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
 
-  padding: 0.6rem 1.3rem;
+  padding: 0.5rem 1.2rem;
 
-  background: #f5eddc;
-  border: 2px solid #c0af8a;
-  border-radius: 6px;
+  background: #f5eddc; /* parchment */
+  border: 2px solid #c0af8a; /* aged botanical ink */
+  border-radius: 6px; /* subtle, not modern */
 
+  font-family: "Georgia", serif;
   font-size: 0.95rem;
   color: #4b3a26;
   text-decoration: none;
@@ -105,17 +142,10 @@ h2, h3 {
   transition: background 0.2s ease-out, box-shadow 0.2s ease-out;
 }
 
-/* Base icon before seasonal override */
 .botanical-download::before {
-  content: "";
-  display: inline-block;
-  width: 22px;
-  height: 22px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  margin-right: 0.4rem;
-  opacity: 0.95;
+  content: "🌿"; /* more natural botanical glyph */
+  font-size: 1rem;
+  opacity: 0.85;
 }
 
 .botanical-download:hover {
@@ -128,22 +158,35 @@ h2, h3 {
   box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);
 }
 
+/* Base button icon setup */
+.botanical-download::before {
+  content: "";
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-right: 0.4rem;
+  opacity: 0.95;
+}
 
-/* -------------------------------------------------------
-   SEASONAL ICONS (controlled by <body> class)
-------------------------------------------------------- */
+/* SPRING: March–May */
 .spring .botanical-download::before {
   background-image: url('/assets/images/Spring.png');
 }
 
+/* SUMMER: June–August */
 .summer .botanical-download::before {
   background-image: url('/assets/images/Summer.png');
 }
 
+/* FALL: September–November */
 .fall .botanical-download::before {
   background-image: url('/assets/images/Fall.png');
 }
 
+/* WINTER: December–February */
 .winter .botanical-download::before {
   background-image: url('/assets/images/Winter.png');
 }
