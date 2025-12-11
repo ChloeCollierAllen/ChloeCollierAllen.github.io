@@ -1,6 +1,8 @@
 ---
 ---
+
 @import "{{ site.theme }}";
+
 
 /* 1. Hide the GitHub "Fork me" ribbon and the original Merlot top banner */
 #forkme_banner {
@@ -123,3 +125,26 @@ body::after {
   right: 0;
 }
 
+/* Light sage twig corner decorations */
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  width: 140px;
+  height: 140px;
+  background: url('/assets/images/corner-twig.png') no-repeat center center;
+  background-size: contain;
+  opacity: 0.45;        /* soft, subtle woodland effect */
+  pointer-events: none;
+  z-index: 9999;
+}
+
+body::before {
+  top: 0;
+  left: 0;
+}
+
+body::after {
+  bottom: 0;
+  right: 0;
+}
