@@ -11,6 +11,7 @@ You can reach me at:
 - **GitHub:** [@ChloeCollierAllen](https://github.com/ChloeCollierAllen)  
 - **LinkedIn:** [Chloe Collier-Allen](https://www.linkedin.com/in/chloe-collier-7632491a9/)  
 
+<div class="botanical-divider"></div>
 
 ## Where to next?
 
