@@ -1,60 +1,69 @@
 ---
-layout: default
-title: Home
 ---
 
-<!-- Botanical Hero Banner -->
-<div class="hero-banner-wrapper">
-  <img
-    src="/assets/images/Banner.jpeg"
-    alt="Chloe Collier-Allen, PhD Candidate"
-    class="hero-banner"
-  >
-</div>
+@import "{{ site.theme }}";
 
-5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
+/* -------------------------------------------
+   1. Hide the GitHub "Fork me" ribbon
+      and the original Merlot top banner
+------------------------------------------- */
+#forkme_banner {
+  display: none !important;
+}
 
-[Home](./) · [CV](./cv) · [Research](./research) · [Contact](./contact)
+header.page-header,
+.page-header {
+  display: none !important;
+}
 
+/* -------------------------------------------
+   2. Soft woodland background + centered column
+------------------------------------------- */
+body {
+  background: radial-gradient(
+    circle at top,
+    #dfe8d2 0%,
+    #f3ecdf 45%,
+    #efe2cf 100%
+  );
+  color: #3b2f24;
+}
 
-Welcome! My name is Chloe and I am a 5th year PhD candidate at the University of Nevada, Reno studying how anthropogenic climate change is impacting the community structure of _Pinus monophylla_ found within the Great Basin.
+.page-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
 
-<p align="center">
-  <img src="/assets/images/Chloe and Cody-59.jpg" width="350" alt="Chloe & Cody">
-  <div class="captioned">
-  </div>
-</p>
+/* -------------------------------------------
+   3. Hero banner (vintage postcard image)
+------------------------------------------- */
+.hero-banner-wrapper {
+  max-width: 960px;
+  margin: 1.5rem auto 2.5rem;
+}
 
+.hero-banner {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+}
 
-## About Me
+/* -------------------------------------------
+   4. Global image styling
+------------------------------------------- */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
 
-My work explores how anthropogenic climate change affects the community structure of pinyon pine–juniper woodlands and what that means for food sovereignty, Indigenous communities, and ecosystem resilience.
-
-Outside of field season, I’m usually:
-
-- Digging into statistics and Bayesian models in R  
-- Working within the Hitchcock Center for Chemical Ecology looking at terpenes within _Pinus monophylla_  
-- Collaborating with Indigenous entities and federal agencies to help protect the culturally important _Pinus monophylla_ species  
-- Drinking too much coffee and cuddling my dogs  
-
-
-## Current Research
-
-**Pinyon–Juniper Community Dynamics**  
-I study how anthropogenic climate change such as drought and fire shape caterpillar communities, tree health, and terpene levels of _Pinus monophylla_ within the Great Basin.
-
-**Food Sovereignty & Indigenous Partnerships**  
-I collaborate with Indigenous entities to help preserve the culturally important pinyon pine stands and support Tribal food sovereignty initiatives.
-
-
-## Selected Projects
-
-- **ENSOC 2025 Presentation** – Interaction diversity in pinyon–juniper ecosystems.
-
-
-## Contact
-
-- Email: chloecollier673@gmail.com  
-- GitHub: [@ChloeCollierAllen](https://github.com/ChloeCollierAllen)
-
-[View my CV →](./cv)
+/* Optional: caption styling */
+.captioned {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #3b5b4a;
+  margin-top: 0.5rem;
+}
