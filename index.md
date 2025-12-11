@@ -2,7 +2,16 @@
 layout: default
 title: Home
 ---
-##Chloe Collier-Allen
+
+<!-- ===== Custom Sage Banner ===== -->
+<div class="custom-banner">
+  <div class="custom-banner-title">
+    Chloe Collier Allen
+  </div>
+  <div class="custom-banner-tagline">
+    PhD Canidate
+  </div>
+</div>
 
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
 
