@@ -19,5 +19,5 @@ You can reach me at:
 - [Return to Home](./)
 
 
-I’m always happy to talk about pinyon–juniper ecosystems, climate change,
-food sovereignty, or medical education.
+I’m always happy to talk about pinyon–juniper ecosystems, climate change, and
+food sovereignty.
