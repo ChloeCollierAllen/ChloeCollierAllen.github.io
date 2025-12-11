@@ -2,23 +2,26 @@
 ---
 @import "{{ site.theme }}";
 
-/* 1. Hide the GitHub "Fork me" ribbon */
+/* 1. Hide the GitHub "Fork me" ribbon and original Merlot header */
 #forkme_banner {
   display: none !important;
 }
 
-/* 2. Hide the original Merlot header banner at the top */
-header.page-header,
-.page-header,
-.wrapper > header {
-  display: none !important;
-  height: 0 !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  border: 0 !important;
+.page-header {
+  display: none !important;  /* kills the maroon + blue ribbon at the top */
 }
 
-/* 3. ===== Custom sage + cream banner (you already use this in index.md) ===== */
+/* 2. Woodland-ish background for the whole page */
+body {
+  /* soft greens + warm tan, like sagebrush / meadow */
+  background: radial-gradient(circle at top,
+    #dde7d1 0%,
+    #f2ecdd 40%,
+    #efe2cf 100%);
+  color: #3b2f24;
+}
+
+/* 3. Custom sage + cream banner (your green name box) */
 
 .custom-banner {
   max-width: 760px;
@@ -60,39 +63,12 @@ img {
   margin-top: 0.5rem;
 }
 
-/* 5. Sage side accents to fill the bare sides */
-
-body {
-  background-color: #f4efe4;       /* warm neutral base */
-  position: relative;
-}
-
-body::before,
-body::after {
-  content: "";
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  width: 80px;                     /* side bar width */
-  background-color: #9CAF88;       /* sage */
-  opacity: 0.15;                   /* subtle */
-  z-index: -1;
-}
-
-body::before {
-  left: 0;
-}
-
-body::after {
-  right: 0;
-}
-
-/* 6. Sage footer to replace Merlot-colored one */
+/* 5. Sage footer to replace Merlot-colored one */
 
 footer.site-footer,
 .site-footer {
-  background-color: #9CAF88 !important; /* sage */
-  color: #FFF8E7 !important;            /* cream text */
+  background-color: #9CAF88 !important;  /* sage */
+  color: #FFF8E7 !important;             /* cream text */
   padding: 1.5rem 0;
   text-align: center;
   border-top: 4px solid #6F8966 !important; /* darker sage border */
