@@ -6,17 +6,15 @@ title: Home
 <!-- Botanical Hero Banner -->
 <div class="hero-banner-wrapper">
   <img
-    src="/assets/images/Banner.png"
+    src="/assets/images/Banner.jpg"
     alt="Chloe Collier-Allen, PhD Candidate"
     class="hero-banner"
   >
 </div>
 
-
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
 
 [Home](./) · [CV](./cv) · [Research](./research) · [Contact](./contact)
-
 
 Welcome! My name is Chloe and I am a 5th year PhD candidate at the University of Nevada, Reno studying how anthropogenic climate change is impacting the community structure of _Pinus monophylla_ found within the Great Basin.
 
@@ -25,7 +23,6 @@ Welcome! My name is Chloe and I am a 5th year PhD candidate at the University of
   <div class="captioned">
   </div>
 </p>
-
 
 ## About Me
 
@@ -38,7 +35,6 @@ Outside of field season, I’m usually:
 - Collaborating with Indigenous entities and federal agencies to help protect the culturally important _Pinus monophylla_ species  
 - Drinking too much coffee and cuddling my dogs  
 
-
 ## Current Research
 
 **Pinyon–Juniper Community Dynamics**  
@@ -47,11 +43,9 @@ I study how anthropogenic climate change such as drought and fire shape caterpil
 **Food Sovereignty & Indigenous Partnerships**  
 I collaborate with Indigenous entities to help preserve the culturally important pinyon pine stands and support Tribal food sovereignty initiatives.
 
-
 ## Selected Projects
 
 - **ENSOC 2025 Presentation** – Interaction diversity in pinyon–juniper ecosystems.
-
 
 ## Contact
 
