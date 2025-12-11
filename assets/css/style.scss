@@ -122,18 +122,39 @@ h2, h3 {
               background 0.15s ease-out;
 }
 
+.botanical-download {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+
+  padding: 0.5rem 1.2rem;
+
+  background: #f5eddc; /* parchment */
+  border: 2px solid #c0af8a; /* aged botanical ink */
+  border-radius: 6px; /* subtle, not modern */
+  
+  font-family: "Georgia", serif;
+  font-size: 0.95rem;
+  color: #4b3a26;
+  text-decoration: none;
+
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+  transition: background 0.2s ease-out, box-shadow 0.2s ease-out;
+}
+
 .botanical-download::before {
-  content: "🌲";
-  font-size: 1.1rem;
+  content: "🌿"; /* more natural botanical glyph */
+  font-size: 1rem;
+  opacity: 0.85;
 }
 
 .botanical-download:hover {
-  background: linear-gradient(#fdf7eb, #f0e3c9);
-  box-shadow: 0 5px 14px rgba(0, 0, 0, 0.22);
-  transform: translateY(-1px);
+  background: #f9f4e6;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .botanical-download:active {
-  transform: translateY(0);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.18);
+  background: #eee2c8;
+  box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);
 }
+
