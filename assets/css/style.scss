@@ -2,33 +2,43 @@
 ---
 @import "{{ site.theme }}";
 
-/* 1. Hide the GitHub "Fork me" ribbon and original Merlot header */
+/* 1. Hide the GitHub "Fork me" ribbon and the original Merlot top banner */
 #forkme_banner {
   display: none !important;
 }
 
+/* Merlot’s big maroon + blue ribbon header */
+header.page-header,
 .page-header {
-  display: none !important;  /* kills the maroon + blue ribbon at the top */
+  display: none !important;
 }
 
-/* 2. Woodland-ish background for the whole page */
+/* 2. Woodland-ish background + center the main content column */
 body {
-  /* soft greens + warm tan, like sagebrush / meadow */
-  background: radial-gradient(circle at top,
-    #dde7d1 0%,
-    #f2ecdd 40%,
-    #efe2cf 100%);
+  /* soft greens + warm tan, like a faded sagebrush meadow */
+  background: radial-gradient(
+    circle at top,
+    #dfe8d2 0%,
+    #f3ecdf 45%,
+    #efe2cf 100%
+  );
   color: #3b2f24;
 }
 
-/* 3. Custom sage + cream banner (your green name box) */
+/* keep the content in a nice centered column */
+.page-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* 3. Custom sage + cream banner (the green name box) */
 
 .custom-banner {
   max-width: 760px;
   margin: 2rem auto 2rem;
   padding: 3rem 1.5rem 3.5rem;
-  background-color: #9CAF88;      /* sage */
-  color: #FFF8E7;                 /* cream */
+  background-color: #9caf88;      /* sage */
+  color: #fff8e7;                 /* cream */
   text-align: center;
   border-radius: 6px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
@@ -44,10 +54,10 @@ body {
   font-size: 1.4rem;
   margin: 0;
   font-style: italic;
-  color: #F3E9D2;                 /* warm beige */
+  color: #f3e9d2;                 /* warm beige */
 }
 
-/* 4. Global image styling */
+/* 4. Global image styling so photos look nice */
 
 img {
   border-radius: 6px;
@@ -63,31 +73,28 @@ img {
   margin-top: 0.5rem;
 }
 
-/* 5. Sage footer to replace Merlot-colored one */
+/* 5. Sage footer instead of Merlot maroon */
 
+footer,
 footer.site-footer,
 .site-footer {
-  background-color: #9CAF88 !important;  /* sage */
-  color: #FFF8E7 !important;             /* cream text */
+  background-color: #9caf88 !important;   /* sage */
+  background-image: none !important;      /* kill ribbon graphic */
+  color: #fff8e7 !important;              /* cream text */
   padding: 1.5rem 0;
   text-align: center;
-  border-top: 4px solid #6F8966 !important; /* darker sage border */
+  border-top: 4px solid #6f8966 !important; /* darker sage border */
 }
 
 /* Footer links */
+footer a,
 .site-footer a {
-  color: #FFF8E7 !important;
+  color: #fff8e7 !important;
   text-decoration: none;
   font-weight: 500;
 }
 
+footer a:hover,
 .site-footer a:hover {
   text-decoration: underline;
-}
-
-/* Remove the ribbon graphics behind the footer */
-.site-footer .ribbon,
-.site-footer .ribbon-inner {
-  background-image: none !important;
-  background-color: transparent !important;
 }
