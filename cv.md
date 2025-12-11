@@ -20,7 +20,7 @@ Location: Reno, Nevada
 
 <a class="botanical-download" href="/assets/pdfs/Chloe_Collier_Allen_CV.pdf" target="_blank">
   Download CV (PDF)
-</a> · [Contact](./contact)
+</a>   · [Contact](./contact)
 
 
 ## Profile
