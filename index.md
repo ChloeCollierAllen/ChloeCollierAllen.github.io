@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-<div class="custom-banner">
-  <div class="custom-banner-title">
-    Chloe Collier Allen
-  </div>
-  <div class="custom-banner-tagline">
-    PhD Candidate
-  </div>
+<!-- Botanical Hero Banner -->
+<div class="hero-banner-wrapper">
+  <img
+    src="/assets/images/Banner.png"
+    alt="Chloe Collier-Allen, PhD Candidate"
+    class="hero-banner"
+  >
 </div>
 
 
