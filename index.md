@@ -12,6 +12,13 @@ title: Home
   </div>
 </div>
 
+<p align="center">
+  <img src="/assets/images/chloe-cody-59.jpg" width="350" alt="Chloe & Cody">
+  <div class="captioned">
+  </div>
+</p>
+
+
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
 
 [Home](./) · [CV](./cv) · [Research](./research) · [Contact](./contact)
