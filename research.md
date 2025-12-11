@@ -7,8 +7,6 @@ title: Research
   <h1>Research</h1>
 </div>
 
-# Research
-
 ## Pinyon Pine–Juniper Community Dynamics
 My research focuses on how anthropogenic climate change affects the community
 structure of pinyon pine–juniper woodlands in the Great Basin and what that
