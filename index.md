@@ -19,6 +19,13 @@ title: Home
 
 Welcome! My name is Chloe and I am a 5th year PhD candidate at the University of Nevada, Reno studying how anthropogenic climate change is impacting the community structure of _Pinus monophylla_ found within the Great Basin.
 
+<p align="center">
+  <img src="/assets/images/chloe-cody-59.jpg" width="350" alt="Chloe & Cody">
+  <div class="captioned">
+    Chloe & Cody — field season, Great Basin.
+  </div>
+</p>
+
 
 ## About Me
 
