@@ -7,10 +7,8 @@
   display: none !important;
 }
 
-/* Hide the original Merlot header (maroon ribbon) */
-header.page-header,
-.page-header,
-.shell > header {
+/* Hide the original Merlot header banner */
+.page-header {
   display: none !important;
 }
 
@@ -40,16 +38,19 @@ header.page-header,
   color: #F3E9D2;                 /* warm beige */
 }
 
-.main-nav {
+/* ===== Global image styling ===== */
+
+img {
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  max-width: 100%;
+  height: auto;
+}
+
+/* Caption text under images */
+.captioned {
   text-align: center;
-  margin-bottom: 1.5rem;
-}
-
-.main-nav a {
-  color: #3b5b4a;        /* darker sage */
-  font-weight: 600;
-}
-
-.main-nav a:hover {
-  text-decoration: underline;
+  font-size: 0.9rem;
+  color: #3b5b4a;                  /* dark sage */
+  margin-top: 0.5rem;
 }
