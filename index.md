@@ -35,6 +35,8 @@ Outside of field season, I’m usually:
 - Collaborating with Indigenous entities and federal agencies to help protect the culturally important _Pinus monophylla_ species  
 - Drinking too much coffee and cuddling my dogs  
 
+<div class="Divider"></div>
+
 ## Current Research
 
 **Pinyon–Juniper Community Dynamics**  
@@ -43,9 +45,13 @@ I study how anthropogenic climate change such as drought and fire shape caterpil
 **Food Sovereignty & Indigenous Partnerships**  
 I collaborate with Indigenous entities to help preserve the culturally important pinyon pine stands and support Tribal food sovereignty initiatives.
 
+<div class="Divider"></div>
+
 ## Selected Projects
 
 - **ENSOC 2025 Presentation** – Interaction diversity in pinyon–juniper ecosystems.
+
+<div class="Divider"></div>
 
 ## Contact
 
