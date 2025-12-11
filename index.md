@@ -3,21 +3,6 @@ layout: default
 title: Home
 ---
 
-<div class="custom-banner">
-  <div class="custom-banner-title">
-    Chloe Collier Allen
-  </div>
-  <div class="custom-banner-tagline">
-    Personal website
-  </div>
-</div>
-
-<p align="center">
-  <img src="/assets/images/chloe-cody-59.jpg" width="350" alt="Chloe & Cody">
-  <div class="captioned">
-  </div>
-</p>
-
 
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
 
@@ -29,7 +14,6 @@ Welcome! My name is Chloe and I am a 5th year PhD candidate at the University of
 <p align="center">
   <img src="/assets/images/Chloe and Cody-59.jpg" width="350" alt="Chloe & Cody">
   <div class="captioned">
-    Chloe & Cody — field season, Great Basin.
   </div>
 </p>
 
