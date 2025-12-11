@@ -56,3 +56,25 @@ img {
   color: #3b5b4a;                  /* dark sage */
   margin-top: 0.5rem;
 }
+
+/* ===== Custom Sage Footer Banner ===== */
+
+/* The footer container */
+.site-footer {
+  background-color: #9CAF88 !important; /* sage */
+  color: #FFF8E7 !important;            /* cream */
+  padding: 1.5rem 0;
+  text-align: center;
+  border-top: 4px solid #6F8966;        /* darker sage accent */
+}
+
+/* Footer links (GitHub Pages, Merlot link) */
+.site-footer a {
+  color: #FFF8E7 !important;            /* keep links cream */
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
