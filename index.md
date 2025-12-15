@@ -14,7 +14,7 @@ title: Home
 
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
 
-[Home](./) · [CV](./cv) · [Research](./research) · [Contact](./contact) • <a href="/about/">About</a>
+[Home](./) · [CV](./cv) · [Research](./research) • <a href="/about/">About</a> · [Contact](./contact) 
 
 
 Welcome! My name is Chloe and I am a 5th year PhD candidate at the University of Nevada, Reno studying how anthropogenic climate change is impacting the community structure of _Pinus monophylla_ found within the Great Basin.
