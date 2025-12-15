@@ -14,7 +14,7 @@ title: Home
 
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
 
-[Home](./) · [CV](./cv) · [Research](./research) • <a href="/about.html">About</a>
+[Home](./) · [CV](./cv) · [Research](./research) · <a href="/about/">About</a> •  [Contact](./contact) 
 
 
 
