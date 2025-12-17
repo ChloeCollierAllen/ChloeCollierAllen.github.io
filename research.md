@@ -18,7 +18,7 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 
 <div class="photo-block">
   <img
-    src="/assets/images/chloeresearch.jpg"
+   src="/assets/images/chloeresearch.jpeg"
     width="350"
     alt="Chloe conducting field research"
     class="about-photo"
