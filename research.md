@@ -16,11 +16,18 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 - Effects of changing temperature and precipitation patterns on tree health
 - Interactions between people, pinyon pines, and culturally important foods
 
-<p align="center">
-  <img src="/assets/images/chloeresearch.jpg" width="350" alt="Chloe">
+<div class="photo-block">
+  <img
+    src="/assets/images/chloeresearch.jpg"
+    width="350"
+    alt="Chloe conducting field research"
+    class="about-photo"
+  />
   <div class="captioned">
+    Fieldwork in Great Basin pinyon–juniper woodlands
   </div>
-</p>
+</div>
+
 
 <div class="botanical-divider"></div>
 
