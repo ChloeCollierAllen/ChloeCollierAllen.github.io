@@ -20,3 +20,5 @@ particular interest in Bayesian and hierarchical modeling.
   alt="Photo of Chloe completing fieldwork"
   class="profile-photo"
 />
+
+- [Return to Home](./)
