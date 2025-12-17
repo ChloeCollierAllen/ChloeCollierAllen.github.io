@@ -19,10 +19,10 @@ and chemistry…
 
 <div class="botanical-divider"></div>
 
-<img
-  src="/assets/images/family.jpg"
-  alt="Photo of Chloe completing fieldwork"
-  class="about-photo"
-/>
+<p align="center">
+  <img src="/assets/images/Family.jpg" width="350" alt="Chloe & Cody">
+  <div class="captioned">
+  </div>
+</p>
 
 [Return to Home](/)
