@@ -13,3 +13,5 @@ focused on food sovereignty and human–environment interactions.
 I regularly work with R, Git, and reproducible research workflows, with a
 particular interest in Bayesian and hierarchical modeling.
 
+<div class="botanical-divider"></div>
+
