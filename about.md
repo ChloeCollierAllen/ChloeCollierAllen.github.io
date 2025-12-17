@@ -15,3 +15,8 @@ particular interest in Bayesian and hierarchical modeling.
 
 <div class="botanical-divider"></div>
 
+<img
+  src="/assets/images/Family.jpg"
+  alt="Photo of Chloe completing fieldwork"
+  class="profile-photo"
+/>
