@@ -56,6 +56,16 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
       </div>
     </div>
 
+ <div class="photo-block">
+      <img
+        src="/assets/images/SCRS_Plot 276_30 meters.JPG"
+        alt="Additional fieldwork"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Focal tree burned from the 2016 Strawberry fire from plot found near Great Basin National Park with ropes set up for drone imaging 
+      </div>
+    </div>
   </div>
 
 </div>
