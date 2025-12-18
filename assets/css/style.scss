@@ -155,3 +155,19 @@ h2, h3 {
 .project-card h3 {
   margin-top: 0;
 }
+
+.photo-row {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin: 2rem 0;
+  flex-wrap: wrap;
+}
+
+.photo-block {
+  text-align: center;
+}
+
+.photo-block img {
+  max-width: 100%;
+}
