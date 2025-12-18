@@ -171,3 +171,23 @@ h2, h3 {
 .photo-block img {
   max-width: 100%;
 }
+
+.photo-row {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 2.5rem 0;
+  flex-wrap: wrap;
+}
+
+.photo-column {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.photo-block {
+  text-align: center;
+}
+
