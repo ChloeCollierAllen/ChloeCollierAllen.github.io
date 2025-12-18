@@ -29,6 +29,18 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
   </div>
 </div>
 
+<div class="photo-block">
+  <img
+   src="/assets/images/Supplies.jpeg"
+    width="350"
+    alt="Field equipment"
+    class="about-photo"
+  />
+  <div class="captioned">
+    Fieldwork in Great Basin pinyon–juniper woodlands
+  </div>
+</div>
+
 <div class="botanical-divider"></div>
 
 <div class="project-card">
