@@ -16,7 +16,7 @@ and chemistry…
 
     <div class="photo-block">
       <img
-        src="/assets/images/Family.jpeg"
+        src="/assets/images/family.jpg"
         alt="Chloe's family"
         class="about-photo"
       />
