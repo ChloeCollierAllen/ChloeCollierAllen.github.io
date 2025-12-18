@@ -19,10 +19,10 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 
 <div class="photo-row">
 
+  <!-- LEFT COLUMN -->
   <div class="photo-block">
     <img
       src="/assets/images/chloeresearch.jpeg"
-      width="350"
       alt="Chloe conducting field research"
       class="about-photo"
     />
@@ -31,19 +31,35 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
     </div>
   </div>
 
-  <div class="photo-block">
-    <img
-      src="/assets/images/Supplies.jpeg"
-      width="350"
-      alt="Field equipment"
-      class="about-photo"
-    />
-    <div class="captioned">
-      Fieldwork in Great Basin pinyon–juniper woodlands
+  <!-- RIGHT COLUMN (STACKED) -->
+  <div class="photo-column">
+
+    <div class="photo-block">
+      <img
+        src="/assets/images/Supplies.jpeg"
+        alt="Field equipment"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Field equipment and sampling setup
+      </div>
     </div>
+
+    <div class="photo-block">
+      <img
+        src="/assets/images/anotherphoto.jpeg"
+        alt="Additional fieldwork"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Sampling materials prepared in the field
+      </div>
+    </div>
+
   </div>
 
 </div>
+
 
 
 <div class="botanical-divider"></div>
