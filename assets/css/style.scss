@@ -156,21 +156,7 @@ h2, h3 {
   margin-top: 0;
 }
 
-.photo-row {
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  margin: 2rem 0;
-  flex-wrap: wrap;
-}
-
-.photo-block {
-  text-align: center;
-}
-
-.photo-block img {
-  max-width: 100%;
-}
+/* --- Photo layouts (row + stacked column) --- */
 
 .photo-row {
   display: flex;
@@ -178,19 +164,32 @@ h2, h3 {
   justify-content: center;
   align-items: flex-start;
   margin: 2.5rem 0;
-  flex-wrap: wrap;
+  flex-wrap: wrap; /* stacks nicely on mobile */
 }
 
 .photo-column {
   display: flex;
   flex-direction: column;
   gap: 2rem;
+  max-width: 420px;
 }
 
 .photo-block {
   text-align: center;
-}
-
-.photo-row > .photo-block {
   max-width: 420px;
 }
+
+/* Size control so images don't get huge */
+.photo-block img,
+.about-photo {
+  width: 100%;
+  max-width: 380px;
+  height: auto;
+}
+
+/* Optional: make right-column images slightly smaller */
+.photo-column .about-photo,
+.photo-column img {
+  max-width: 340px;
+}
+
