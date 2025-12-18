@@ -35,12 +35,12 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 
     <div class="photo-block">
       <img
-        src="/assets/images/Burn.jpeg"
-        alt="Burned focal tree"
+        src="/assets/images/Supplies.jpeg"
+        alt="Field equipment"
         class="about-photo"
       />
       <div class="captioned">
-        Focal tree burned from the 2016 Strawberry Fire near Great Basin National Park
+        Field equipment
       </div>
     </div>
 
@@ -51,19 +51,19 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 
     <div class="photo-block">
       <img
-        src="/assets/images/Supplies.jpeg"
-        alt="Field equipment"
+        src="/assets/images/Burn.jpeg"
+        alt="Burned focal tree"
         class="about-photo"
       />
       <div class="captioned">
-        Field equipment
+        Focal tree burned from the 2016 Strawberry Fire near Great Basin National Park
       </div>
     </div>
 
     <div class="photo-block">
       <img
         src="/assets/images/SCRS_Plot 276_30 meters.JPG"
-        alt="Plot overview"
+        alt="Plot overview with drone setup"
         class="about-photo"
       />
       <div class="captioned">
