@@ -16,8 +16,8 @@ and chemistry…
 
     <div class="photo-block">
       <img
-        src="/assets/images/Family.jpg"
-        alt="Chloe conducting field research"
+        src="/assets/images/Family.jpeg"
+        alt="Chloe's family"
         class="about-photo"
       />
       <div class="captioned">
