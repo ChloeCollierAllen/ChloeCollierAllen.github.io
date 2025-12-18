@@ -54,12 +54,12 @@ and chemistry…
 
     <div class="photo-block">
       <img
-        src="/assets/images/SCRS_Plot 276_30 meters.JPG"
-        alt="Plot overview with drone setup"
+        src="/assets/images/hiking.jpeg"
+        alt="Hiking"
         class="about-photo"
       />
       <div class="captioned">
-        Plot overview with ropes set up for drone imaging
+       Chloe backpacking the Desolation Wilderness near Lake Tahoe
       </div>
     </div>
 
