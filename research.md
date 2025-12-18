@@ -47,7 +47,7 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 
     <div class="photo-block">
       <img
-        src="/assets/images/anotherphoto.jpeg"
+        src="/assets/images/Burn.jpeg"
         alt="Additional fieldwork"
         class="about-photo"
       />
