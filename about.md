@@ -27,12 +27,12 @@ and chemistry…
 
     <div class="photo-block">
       <img
-        src="/assets/images/Supplies.jpeg"
-        alt="Field equipment"
+        src="/assets/images/dr.jpeg"
+        alt="Dr"
         class="about-photo"
       />
       <div class="captioned">
-        Field equipment
+        Chloe with her husband Cody at his white coat ceremony
       </div>
     </div>
 
