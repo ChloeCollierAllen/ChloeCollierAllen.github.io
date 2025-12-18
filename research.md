@@ -17,29 +17,34 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 - Interactions between people, pinyon pines, and culturally important foods
 - Terpene variation between populations of _Pinus monophyla_ 
 
-<div class="photo-block">
-  <img
-   src="/assets/images/chloeresearch.jpeg"
-    width="350"
-    alt="Chloe conducting field research"
-    class="about-photo"
-  />
-  <div class="captioned">
-    Fieldwork in Great Basin pinyon–juniper woodlands
+<div class="photo-row">
+
+  <div class="photo-block">
+    <img
+      src="/assets/images/chloeresearch.jpeg"
+      width="350"
+      alt="Chloe conducting field research"
+      class="about-photo"
+    />
+    <div class="captioned">
+      Fieldwork in Great Basin pinyon–juniper woodlands
+    </div>
   </div>
+
+  <div class="photo-block">
+    <img
+      src="/assets/images/Supplies.jpeg"
+      width="350"
+      alt="Field equipment"
+      class="about-photo"
+    />
+    <div class="captioned">
+      Fieldwork in Great Basin pinyon–juniper woodlands
+    </div>
+  </div>
+
 </div>
 
-<div class="photo-block">
-  <img
-   src="/assets/images/Supplies.jpeg"
-    width="350"
-    alt="Field equipment"
-    class="about-photo"
-  />
-  <div class="captioned">
-    Fieldwork in Great Basin pinyon–juniper woodlands
-  </div>
-</div>
 
 <div class="botanical-divider"></div>
 
