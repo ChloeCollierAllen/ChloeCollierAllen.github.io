@@ -8,7 +8,7 @@ permalink: /about/
 
 Hello! 
 
-My name is Chloe and I am a native Nevadan. Growing up in Reno, Nevada spending summer days at Lake Tahoe and winter days skiing in the Sierra Nevada Mountains. Including skiing and snowboarding, I enjoy hiking, running, camping, and spending time with my husband and dogs.
+I am a native Nevadan and grew up in Reno, where summers were spent at Lake Tahoe and winters in the Sierra Nevada Mountains. These landscapes shaped my love for the outdoors. When I am not working, I enjoy skiing and snowboarding, hiking, running, camping, and spending time with my husband and our dogs.
 
 <div class="photo-row">
 
