@@ -41,7 +41,7 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
         class="about-photo"
       />
       <div class="captioned">
-        Field equipment and sampling setup
+        Focal tree burned from the 2016 Strawberry fire from plot found near Great Basin National Park with ropes set up for drone imaging 
       </div>
     </div>
 
