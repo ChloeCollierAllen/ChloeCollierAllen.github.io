@@ -6,8 +6,9 @@ permalink: /about/
 
 # About Me
 
-I’m a fifth-year PhD candidate with interests in ecology, anthropology,
-and chemistry…
+Hello! 
+
+My name is Chloe and I am a native Nevadan. Growing up in Reno, Nevada spending summer days at Lake Tahoe and winter days skiing in the Sierra Nevada Mountains. Including skiing and snowboarding, I enjoy hiking, running, camping, and spending time with my husband and dogs.
 
 <div class="photo-row">
 
