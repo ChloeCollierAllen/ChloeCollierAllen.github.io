@@ -15,6 +15,7 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 - Community structure of arthropods associated with _Pinus monophylla_
 - Effects of changing temperature and precipitation patterns on tree health
 - Interactions between people, pinyon pines, and culturally important foods
+- Terpene variation between populations of _Pinus monophyla_ 
 
 <div class="photo-block">
   <img
@@ -28,8 +29,16 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
   </div>
 </div>
 
-
 <div class="botanical-divider"></div>
+
+<div class="project-card">
+  <h3>Pinyon Pine–Juniper Community Dynamics</h3>
+  <p><strong>Question:</strong> How do climate and disturbance shape arthropod communities and tree health?</p>
+  <p><strong>Approach:</strong> Field surveys, repeated sampling across gradients, community analysis.</p>
+  <p><strong>Status:</strong> Ongoing (2024–present).</p>
+  <p><a href="#dynamics">Read more →</a></p>
+</div>
+
 
 ## Chemical Ecology & Terpenes
 I work with the Hitchcock Center for Chemical Ecology to analyze terpene
