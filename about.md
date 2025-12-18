@@ -43,12 +43,12 @@ and chemistry…
 
     <div class="photo-block">
       <img
-        src="/assets/images/Burn.jpeg"
-        alt="Burned focal tree"
+        src="/assets/images/cohort.jpg"
+        alt="Cohort"
         class="about-photo"
       />
       <div class="captioned">
-        Focal tree burned from the 2016 Strawberry Fire near Great Basin National Park
+       Chloe with her friends within the EECB program
       </div>
     </div>
 
