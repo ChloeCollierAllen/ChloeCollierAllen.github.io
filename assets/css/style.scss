@@ -1,27 +1,68 @@
 ---
 ---
+/* ======================================================
+   GLOBAL RESET + FULL-PAGE BACKGROUND
+====================================================== */
 
-/* -------------------------------------------
-   2. Soft woodland background + centered column
-------------------------------------------- */
-body {
-  background: radial-gradient(
-    circle at top,
-    #dfe8d2 0%,
-    #f3ecdf 45%,
-    #efe2cf 100%
-  );
-  color: #3b2f24;
+html, body {
+  height: 100%;
+  margin: 0;
 }
+
+html {
+  background-color: #f4efdf;
+}
+
+body {
+  color: #3b2f24;
+  background-color: transparent;
+
+  background-image:
+    radial-gradient(circle at 20% 10%, rgba(255,255,255,0.75) 0%, rgba(244,239,223,0.0) 55%),
+    radial-gradient(circle at 70% 120%, rgba(150,120,80,0.14) 0%, rgba(244,239,223,0.0) 60%),
+    linear-gradient(180deg, #fbf7ee 0%, #f4efdf 40%, #efe8d2 100%),
+    repeating-linear-gradient(
+      0deg,
+      rgba(60,45,25,0.03) 0px,
+      rgba(60,45,25,0.03) 1px,
+      rgba(255,255,255,0.00) 3px,
+      rgba(255,255,255,0.00) 6px
+    );
+
+  background-attachment: fixed;
+  font-family: "Georgia", serif;
+}
+
+/* Remove theme containers that block background */
+.wrapper,
+.site,
+.container,
+main {
+  background: transparent;
+}
+
+/* ======================================================
+   MAIN CONTENT CARD
+====================================================== */
 
 .page-content {
   max-width: 900px;
-  margin: 0 auto;
+  margin: 2.5rem auto;
+  padding: 2.75rem;
+  background: #f7f2e4;
+  border-radius: 14px;
+
+  border: 2px solid rgba(120, 90, 55, 0.35);
+  box-shadow:
+    0 16px 36px rgba(40, 25, 10, 0.18),
+    inset 0 0 0 6px rgba(255, 255, 255, 0.35),
+    inset 0 0 0 7px rgba(120, 90, 55, 0.18);
 }
 
-/* -------------------------------------------
-   3. Hero banner (vintage postcard image)
-------------------------------------------- */
+/* ======================================================
+   HERO BANNER
+====================================================== */
+
 .hero-banner-wrapper {
   max-width: 960px;
   margin: 1.5rem auto 2.5rem;
@@ -32,12 +73,14 @@ body {
   height: auto;
   display: block;
   border-radius: 10px;
+  border: 4px solid #d9cbb3;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
 }
 
-/* -------------------------------------------
-   4. Global image styling
-------------------------------------------- */
+/* ======================================================
+   GLOBAL IMAGE STYLING
+====================================================== */
+
 img {
   max-width: 100%;
   height: auto;
@@ -45,7 +88,7 @@ img {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
 
-/* Optional: caption styling */
+/* Caption text */
 .captioned {
   text-align: center;
   font-size: 0.9rem;
@@ -53,51 +96,64 @@ img {
   margin-top: 0.5rem;
 }
 
-.hero-banner {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 10px;
-  border: 4px solid #d9cbb3; /* soft pine-needle beige */
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
-}
-
-.page-content {
-  max-width: 900px;
-  margin: 0 auto;
-  background: rgba(255, 255, 255, 0.6);
-  padding: 2rem;
-  border-radius: 12px;
-  border: 2px solid #d8c8aa;
-  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
-}
+/* ======================================================
+   TYPOGRAPHY
+====================================================== */
 
 h2, h3 {
-  border-bottom: 2px solid #d0c2a8;
-  padding-bottom: 0.3rem;
+  position: relative;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(120, 90, 55, 0.28);
+  margin-top: 2rem;
 }
 
-.page-content {
-  max-width: 900px;
-  margin: 2rem auto;
-  background: #f7f2e4; /* warm parchment tone */
-  padding: 2.5rem;
-  border: 3px solid #c8b89a; /* soft, vintage brown */
-  border-radius: 12px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15); /* gentle depth */
-  font-family: "Georgia", serif;
+h2::after, h3::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 120px;
+  height: 10px;
+  border-radius: 999px;
+  background: radial-gradient(
+    circle at 20% 50%,
+    rgba(80,120,90,0.35),
+    rgba(255,255,255,0)
+  );
 }
+
+/* ======================================================
+   LINKS
+====================================================== */
+
+a {
+  color: #2f5a46;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover {
+  color: #1f3f31;
+}
+
+/* ======================================================
+   BOTANICAL DIVIDER
+====================================================== */
 
 .botanical-divider {
   width: 100%;
-  height: 80px; /* adjust to your liking */
+  height: 80px;
   margin: 3rem 0;
   background-image: url('/assets/images/botanical-divider.png');
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 300px auto; /* scale the art */
-  opacity: 0.95; /* soft vintage ink look */
+  background-size: 300px auto;
+  opacity: 0.95;
 }
+
+/* ======================================================
+   RESEARCH HERO SECTION
+====================================================== */
 
 .research-hero {
   background-image: url('/assets/images/researchbanner.jpeg');
@@ -114,16 +170,15 @@ h2, h3 {
 }
 
 .research-hero h1 {
-  font-family: "Georgia", serif;
   font-size: 2.8rem;
   color: #3b2f24;
   text-shadow: 0 2px 6px rgba(255,255,255,0.8);
   margin: 0;
 }
 
-.page-content {
-  background: #f7f2e4; /* or #fff */
-}
+/* ======================================================
+   PROFILE + ABOUT IMAGES
+====================================================== */
 
 .profile-photo {
   max-width: 250px;
@@ -133,7 +188,8 @@ h2, h3 {
 }
 
 .about-photo {
-  max-width: 100%;
+  width: 100%;
+  max-width: 380px;
   border-radius: 12px;
   padding: 10px;
   background: #f6f1e7;
@@ -141,6 +197,10 @@ h2, h3 {
     0 10px 24px rgba(0, 0, 0, 0.18),
     inset 0 0 0 1px rgba(0, 0, 0, 0.08);
 }
+
+/* ======================================================
+   PROJECT CARDS
+====================================================== */
 
 .project-card {
   background: #f6f1e7;
@@ -156,7 +216,9 @@ h2, h3 {
   margin-top: 0;
 }
 
-/* --- Photo layouts (row + stacked column) --- */
+/* ======================================================
+   PHOTO LAYOUTS
+====================================================== */
 
 .photo-row {
   display: flex;
@@ -164,7 +226,7 @@ h2, h3 {
   justify-content: center;
   align-items: flex-start;
   margin: 2.5rem 0;
-  flex-wrap: wrap; /* stacks nicely on mobile */
+  flex-wrap: wrap;
 }
 
 .photo-column {
@@ -179,55 +241,7 @@ h2, h3 {
   max-width: 420px;
 }
 
-/* Size control so images don't get huge */
-.photo-block img,
-.about-photo {
-  width: 100%;
-  max-width: 380px;
-  height: auto;
-}
-
-/* Optional: make right-column images slightly smaller */
-.photo-column .about-photo,
 .photo-column img {
   max-width: 340px;
-}
-
-.page-content {
-  max-width: 900px;
-  margin: 2.2rem auto;
-  padding: 2.6rem;
-  background: #f7f2e4;
-  border-radius: 14px;
-
-  /* outer border + inner “ink line” */
-  border: 2px solid rgba(120, 90, 55, 0.35);
-  box-shadow:
-    0 14px 34px rgba(40, 25, 10, 0.18),
-    inset 0 0 0 6px rgba(255, 255, 255, 0.35),
-    inset 0 0 0 7px rgba(120, 90, 55, 0.18);
-
-  font-family: "Georgia", serif;
-}
-
-body {
-  color: #3b2f24;
-  background-color: #f4efdf;
-
-  /* layer 1: soft vignette + warm gradient */
-  background-image:
-    radial-gradient(circle at 20% 10%, rgba(255,255,255,0.75) 0%, rgba(244,239,223,0.0) 55%),
-    radial-gradient(circle at 70% 120%, rgba(150,120,80,0.14) 0%, rgba(244,239,223,0.0) 60%),
-    linear-gradient(180deg, #fbf7ee 0%, #f4efdf 40%, #efe8d2 100%),
-
-    /* layer 2: faint “grain” pattern */
-    repeating-linear-gradient(0deg,
-      rgba(60,45,25,0.03) 0px,
-      rgba(60,45,25,0.03) 1px,
-      rgba(255,255,255,0.00) 3px,
-      rgba(255,255,255,0.00) 6px
-    );
-
-  background-attachment: fixed;
 }
 
