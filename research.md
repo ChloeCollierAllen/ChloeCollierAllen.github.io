@@ -91,7 +91,7 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
   <p><strong>Question:</strong> How do climate and disturbance shape arthropod communities and tree health?</p>
   <p><strong>Approach:</strong> Field surveys, repeated sampling across gradients, community analysis.</p>
   <p><strong>Status:</strong> Ongoing (2022–present).</p>
-  <p><a href="#dynamics">Read more →</a></p>
+  <a href="/research/pinyon-pj-dynamics/">Read more →</a>
 </div>
 
 
