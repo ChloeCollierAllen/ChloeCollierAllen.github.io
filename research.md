@@ -105,9 +105,15 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 </div>
 
 
-<video class="site-video" controls>
-  <source src="/assets/videos/drone-plot-overview.mp4" type="video/movie_2025-12-26_21-21-03-240.mp4">
-</video>
+<div class="video-embed">
+  <video class="site-video" controls preload="metadata">
+    <source src="/assets/videos/movie_2025-12-26_21-21-03-240.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div class="captioned">
+    Drone overview of pinyon pine–juniper study plot
+  </div>
+</div>
 
 
 - [Return to Home](./)
