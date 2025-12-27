@@ -116,12 +116,6 @@ that had a caterpillars present on them, for gas chromatography-mass spectrometr
     class="about-photo"
   />
 
-  <img
-    src="https://github.com/user-attachments/assets/aab57ee3-8666-472f-b957-4058a9ace238"
-    alt="Path coefficients and model fit statistics for the structural equation model"
-    class="sem-details"
-  />
-
   <div class="captioned">
     Structural equation model showing hypothesized relationships among environmental,
     temporal, and biotic variables influencing caterpillar abundance.
