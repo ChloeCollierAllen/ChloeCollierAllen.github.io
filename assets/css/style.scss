@@ -1,7 +1,7 @@
 ---
 ---
 /* ======================================================
-   GLOBAL RESET + FULL-PAGE BACKGROUND
+   GLOBAL RESET + SMOOTH BACKGROUND
 ====================================================== */
 
 html, body {
@@ -10,30 +10,32 @@ html, body {
 }
 
 html {
-  background-color: #f4efdf;
+  background: #f4efdf;
 }
 
 body {
   color: #3b2f24;
-  background-color: transparent;
+  font-family: "Georgia", serif;
 
-  background-image:
-    radial-gradient(circle at 20% 10%, rgba(255,255,255,0.75) 0%, rgba(244,239,223,0.0) 55%),
-    radial-gradient(circle at 70% 120%, rgba(150,120,80,0.14) 0%, rgba(244,239,223,0.0) 60%),
-    linear-gradient(180deg, #fbf7ee 0%, #f4efdf 40%, #efe8d2 100%),
-    repeating-linear-gradient(
-      0deg,
-      rgba(60,45,25,0.03) 0px,
-      rgba(60,45,25,0.03) 1px,
-      rgba(255,255,255,0.00) 3px,
-      rgba(255,255,255,0.00) 6px
-    );
+  background:
+    radial-gradient(circle at 18% 12%, rgba(255,255,255,0.70) 0%, rgba(255,255,255,0.00) 55%),
+    radial-gradient(circle at 78% 110%, rgba(130,100,70,0.12) 0%, rgba(130,100,70,0.00) 60%),
+    radial-gradient(circle at 110% 30%, rgba(80,120,95,0.06) 0%, rgba(80,120,95,0.00) 55%),
+    linear-gradient(180deg, #fbf7ee 0%, #f4efdf 42%, #efe8d2 100%);
 
   background-attachment: fixed;
-  font-family: "Georgia", serif;
 }
 
-/* Remove theme containers that block background */
+/* Soft vignette */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  box-shadow: inset 0 0 120px rgba(60, 45, 25, 0.08);
+}
+
+/* Remove theme backgrounds that block page background */
 .wrapper,
 .site,
 .container,
@@ -42,7 +44,7 @@ main {
 }
 
 /* ======================================================
-   MAIN CONTENT CARD
+   MAIN CONTENT COLUMN
 ====================================================== */
 
 .page-content {
@@ -88,7 +90,7 @@ img {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
 }
 
-/* Caption text */
+/* Optional caption styling */
 .captioned {
   text-align: center;
   font-size: 0.9rem;
@@ -152,7 +154,7 @@ a:hover {
 }
 
 /* ======================================================
-   RESEARCH HERO SECTION
+   RESEARCH HERO
 ====================================================== */
 
 .research-hero {
@@ -209,7 +211,7 @@ a:hover {
   margin: 1.5rem 0;
   box-shadow:
     0 10px 24px rgba(0, 0, 0, 0.12),
-    inset 0 0 0 1px rgba(0, 0, 0, 0.08);
+    inset 0 0 0 1px rgba(0,  0, 0, 0.08);
 }
 
 .project-card h3 {
@@ -241,7 +243,12 @@ a:hover {
   max-width: 420px;
 }
 
+.photo-block img,
+.about-photo {
+  width: 100%;
+  height: auto;
+}
+
 .photo-column img {
   max-width: 340px;
 }
-
