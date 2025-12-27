@@ -76,7 +76,7 @@ caterpillar and parasitoid species that co-occur together based on precipitation
 
     <div class="photo-block">
       <img
-        src="/assets/images/10m.jpg"
+        src="/assets/images/10m.png"
         alt="Field sites"
         class="about-photo"
       />
@@ -92,7 +92,7 @@ caterpillar and parasitoid species that co-occur together based on precipitation
 
     <div class="photo-block">
       <img
-        src="/assets/images/50m.jpg"
+        src="/assets/images/50m.png"
         alt="Burned focal tree"
         class="about-photo"
       />
