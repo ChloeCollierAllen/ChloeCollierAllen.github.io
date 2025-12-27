@@ -58,15 +58,65 @@ then take this data and transform it into a co-occurrence matrix via principal c
 species and parasitoid species within plots, health of plots, abundance of caterpillars and parasitoids, and 
 caterpillar and parasitoid species that co-occur together based on precipitationlevels and burn status.
 
-  <div class="photo-row">
+ <div class="photo-row">
+
+  <!-- LEFT COLUMN (STACKED) -->
+  <div class="photo-column">
+
     <div class="photo-block">
       <img
         src="/assets/images/sites.png"
+        alt="Field sites"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Fieldwork in Great Basin pinyon–juniper woodlands
+      </div>
+    </div>
+
+    <div class="photo-block">
+      <img
+        src="/assets/images/Supplies.jpeg"
         alt="Field equipment"
         class="about-photo"
       />
-      <div class="captioned">Field sites</div>
+      <div class="captioned">
+        Field equipment
+      </div>
     </div>
+
+  </div>
+
+  <!-- RIGHT COLUMN (STACKED) -->
+  <div class="photo-column">
+
+    <div class="photo-block">
+      <img
+        src="/assets/images/Burn.jpeg"
+        alt="Burned focal tree"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Focal tree burned from the 2016 Strawberry Fire near Great Basin National Park
+      </div>
+    </div>
+
+    <div class="photo-block">
+      <img
+        src="/assets/images/SCRS_Plot 276_30 meters.JPG"
+        alt="Plot overview with drone setup"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Plot overview with ropes set up for drone imaging
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+<div class="botanical-divider"></div>
 
 ## Status
 Ongoing (2022–present)
