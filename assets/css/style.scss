@@ -254,8 +254,8 @@ a:hover {
 }
 
 /* ======================================================
-   FORCE BACKGROUND (theme wrapper override)
-   Paste this at the VERY BOTTOM of your CSS
+   WOODLAND STYLIZED BACKGROUND (paste at VERY bottom)
+   This will override theme wrappers + your earlier rules.
 ====================================================== */
 
 html, body {
@@ -263,18 +263,29 @@ html, body {
   margin: 0 !important;
 }
 
-/* Put the background on html + body (belt + suspenders) */
+/* Woodland palette background + subtle needle pattern */
 html,
 body {
-  background:
-    radial-gradient(circle at 18% 12%, rgba(255,255,255,0.70) 0%, rgba(255,255,255,0.00) 55%),
-    radial-gradient(circle at 78% 110%, rgba(130,100,70,0.12) 0%, rgba(130,100,70,0.00) 60%),
-    radial-gradient(circle at 110% 30%, rgba(80,120,95,0.06) 0%, rgba(80,120,95,0.00) 55%),
-    linear-gradient(180deg, #fbf7ee 0%, #f4efdf 42%, #efe8d2 100%) !important;
+  background-color: #e8efe1 !important;
+
+  background-image:
+    /* 1) subtle pine-needle / twig pattern */
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='420' height='420' viewBox='0 0 420 420'%3E%3Cg fill='none' stroke='%233b5b4a' stroke-opacity='0.12' stroke-width='1.2' stroke-linecap='round'%3E%3Cpath d='M70 110c38 12 70 42 92 92'/%3E%3Cpath d='M92 86c26 34 48 74 64 130'/%3E%3Cpath d='M320 120c-46 14-80 48-102 92'/%3E%3Cpath d='M340 295c-44-16-76-52-96-102'/%3E%3Cpath d='M150 318c26-26 56-44 96-54'/%3E%3Cpath d='M250 70c-18 20-30 44-36 70'/%3E%3Cpath d='M210 330c18-18 40-30 66-36'/%3E%3C/g%3E%3C/svg%3E"),
+
+    /* 2) cool woodland highlights/shadows */
+    radial-gradient(circle at 18% 12%, rgba(255,255,255,0.70) 0%, rgba(255,255,255,0.00) 54%),
+    radial-gradient(circle at 78% 110%, rgba(55, 90, 70, 0.18) 0%, rgba(55, 90, 70, 0.00) 64%),
+    radial-gradient(circle at 110% 30%, rgba(40, 80, 60, 0.10) 0%, rgba(40, 80, 60, 0.00) 58%),
+
+    /* 3) base woodland gradient */
+    linear-gradient(180deg, #f3f7ef 0%, #e8efe1 42%, #d8e2d1 100%) !important;
+
+  background-repeat: repeat, no-repeat, no-repeat, no-repeat, no-repeat !important;
+  background-size: 520px 520px, auto, auto, auto, auto !important;
   background-attachment: fixed !important;
 }
 
-/* These are common GitHub Pages theme wrappers that often COVER the body background */
+/* Stop theme wrappers from masking the background */
 .wrapper,
 .site,
 .container,
@@ -290,16 +301,47 @@ main,
   background: transparent !important;
 }
 
-/* If your theme uses a big “panel” wrapper, give IT the background too */
-.wrapper,
-.outer,
-#container,
-#page {
-  background:
-    radial-gradient(circle at 18% 12%, rgba(255,255,255,0.70) 0%, rgba(255,255,255,0.00) 55%),
-    radial-gradient(circle at 78% 110%, rgba(130,100,70,0.12) 0%, rgba(130,100,70,0.00) 60%),
-    radial-gradient(circle at 110% 30%, rgba(80,120,95,0.06) 0%, rgba(80,120,95,0.00) 55%),
-    linear-gradient(180deg, #fbf7ee 0%, #f4efdf 42%, #efe8d2 100%) !important;
-  background-attachment: fixed !important;
+/* Woodland vignette edge shading */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  box-shadow:
+    inset 0 0 160px rgba(25, 45, 30, 0.10),
+    inset 0 0 60px rgba(25, 45, 30, 0.06);
+}
+
+/* Parchment content card (kept warm so it reads clearly) */
+.page-content {
+  position: relative;
+  background: rgba(247, 242, 228, 0.96) !important;
+  border: 2px solid rgba(90, 120, 95, 0.32) !important;
+  box-shadow:
+    0 22px 52px rgba(20, 35, 25, 0.20),
+    0 2px 0 rgba(255, 255, 255, 0.70) inset,
+    inset 0 0 0 7px rgba(255, 255, 255, 0.35),
+    inset 0 0 0 8px rgba(55, 90, 70, 0.14) !important;
+}
+
+/* Soft “glow” behind the card */
+.page-content::before {
+  content: "";
+  position: absolute;
+  inset: -18px;
+  border-radius: 18px;
+  background: radial-gradient(circle at 50% 18%, rgba(255,255,255,0.55), rgba(255,255,255,0.00) 62%);
+  filter: blur(2px);
+  z-index: -1;
+}
+
+/* Optional: links a bit more forest-green */
+a {
+  color: #2f5a46;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+a:hover {
+  color: #1f3f31;
 }
 
