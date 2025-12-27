@@ -110,6 +110,20 @@ that had a caterpillars present on them, for gas chromatography-mass spectrometr
 
 ## Results
 
+
+    <div class="photo-block">
+      <img
+        src="/assets/images/result.png"
+        alt="Field sites"
+        class="about-photo"
+      />
+      <div class="captioned">
+    This is a structural equation model showing hypothesized relationships among environmental, temporal, and biotic variables influencing caterpillar abundance.
+<img width="985" height="112" alt="image" src="https://github.com/user-attachments/assets/aab57ee3-8666-472f-b957-4058a9ace238" />
+
+      </div>
+    </div>
+
 ## Status
 Ongoing (2022–present)
 
