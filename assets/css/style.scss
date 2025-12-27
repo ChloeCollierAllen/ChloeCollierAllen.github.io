@@ -433,3 +433,53 @@ a:hover {
     opacity: 1;
   }
 }
+
+.photo-rotator {
+  position: relative;
+  width: 100%;
+  max-width: 960px;   /* match your video width */
+  aspect-ratio: 16 / 9;
+  margin: 2.5rem auto;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 18px 40px rgba(15, 30, 20, 0.35);
+  border: 2px solid rgba(90, 120, 95, 0.35);
+}
+
+.photo-rotator img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  animation: fade 24s infinite;
+}
+
+/* 6 images → space delays evenly (24s total / 6 = 4s each) */
+.photo-rotator img:nth-child(1) { animation-delay: 0s; }
+.photo-rotator img:nth-child(2) { animation-delay: 4s; }
+.photo-rotator img:nth-child(3) { animation-delay: 8s; }
+.photo-rotator img:nth-child(4) { animation-delay: 12s; }
+.photo-rotator img:nth-child(5) { animation-delay: 16s; }
+.photo-rotator img:nth-child(6) { animation-delay: 20s; }
+
+@keyframes fade {
+  0%   { opacity: 0; }
+  8%   { opacity: 1; }
+  28%  { opacity: 1; }
+  36%  { opacity: 0; }
+  100% { opacity: 0; }
+}
+
+/* Keep your reduced-motion rule, but tweak it so only the first image shows */
+@media (prefers-reduced-motion: reduce) {
+  .photo-rotator img {
+    animation: none;
+    opacity: 0;
+    position: absolute;
+  }
+  .photo-rotator img:first-child {
+    opacity: 1;
+  }
+}
