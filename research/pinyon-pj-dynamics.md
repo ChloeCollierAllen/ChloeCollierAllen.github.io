@@ -103,12 +103,12 @@ caterpillar and parasitoid species that co-occur together based on precipitation
 
     <div class="photo-block">
       <img
-        src="/assets/images/SCRS_Plot 276_30 meters.JPG"
+        src="/assets/images/cat.JPG"
         alt="Plot overview with drone setup"
         class="about-photo"
       />
       <div class="captioned">
-        Plot overview with ropes set up for drone imaging
+        Caterpillar found within one of the field sites in 2022
       </div>
     </div>
 
