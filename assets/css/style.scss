@@ -210,4 +210,24 @@ h2, h3 {
   font-family: "Georgia", serif;
 }
 
+body {
+  color: #3b2f24;
+  background-color: #f4efdf;
+
+  /* layer 1: soft vignette + warm gradient */
+  background-image:
+    radial-gradient(circle at 20% 10%, rgba(255,255,255,0.75) 0%, rgba(244,239,223,0.0) 55%),
+    radial-gradient(circle at 70% 120%, rgba(150,120,80,0.14) 0%, rgba(244,239,223,0.0) 60%),
+    linear-gradient(180deg, #fbf7ee 0%, #f4efdf 40%, #efe8d2 100%),
+
+    /* layer 2: faint “grain” pattern */
+    repeating-linear-gradient(0deg,
+      rgba(60,45,25,0.03) 0px,
+      rgba(60,45,25,0.03) 1px,
+      rgba(255,255,255,0.00) 3px,
+      rgba(255,255,255,0.00) 6px
+    );
+
+  background-attachment: fixed;
+}
 
