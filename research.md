@@ -105,4 +105,9 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 </div>
 
 
+<video class="site-video" controls>
+  <source src="/assets/videos/drone-plot-overview.mp4" type="video/movie_2025-12-26_21-21-03-240.mp4">
+</video>
+
+
 - [Return to Home](./)
