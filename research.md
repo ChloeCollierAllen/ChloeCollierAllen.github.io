@@ -75,7 +75,15 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 
 </div>
 
+<div class="botanical-divider"></div>
 
+<div class="project-card">
+  <h3>Indigenous Sovereignty of Pinyon Pine</h3>
+  <p><strong>Question:</strong> How have Indigenous groups of the Great Basin historically stewarded pinyon pine and how to collaborate with these indigenous groups to stewards this species?</p>
+  <p><strong>Approach:</strong> Historical research, collaborate with Indigenous individuals.</p>
+  <p><strong>Status:</strong> Ongoing (2022–present).</p>
+  <p><a href="#dynamics">Read more →</a></p>
+</div>
 
 <div class="botanical-divider"></div>
 
@@ -83,15 +91,20 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
   <h3>Pinyon Pine–Juniper Community Dynamics</h3>
   <p><strong>Question:</strong> How do climate and disturbance shape arthropod communities and tree health?</p>
   <p><strong>Approach:</strong> Field surveys, repeated sampling across gradients, community analysis.</p>
-  <p><strong>Status:</strong> Ongoing (2024–present).</p>
+  <p><strong>Status:</strong> Ongoing (2022–present).</p>
   <p><a href="#dynamics">Read more →</a></p>
 </div>
 
 
-## Chemical Ecology & Terpenes
-I work with the Hitchcock Center for Chemical Ecology to analyze terpene
-profiles in pinyon pine needles and relate these to herbivory and fire history.
+<div class="botanical-divider"></div>
 
-(More details, figures, and links coming soon.)
+<div class="project-card">
+  <h3>Pinyon pine volatile organic compound (VOC) profile</h3>
+  <p><strong>Question:</strong> How does climate and disturbance alter the volatile organic compounds within pinyon pine? </p>
+  <p><strong>Approach:</strong> Sample preparation, repeated sampling across gradients, gas-chromatography mass spectrometry (GC-MS).</p>
+  <p><strong>Status:</strong> Ongoing (2022–present).</p>
+  <p><a href="#dynamics">Read more →</a></p>
+</div>
+
 
 - [Return to Home](./)
