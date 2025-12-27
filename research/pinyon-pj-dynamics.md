@@ -58,10 +58,6 @@ then take this data and transform it into a co-occurrence matrix via principal c
 species and parasitoid species within plots, health of plots, abundance of caterpillars and parasitoids, and 
 caterpillar and parasitoid species that co-occur together based on precipitationlevels and burn status.
 
-<div class="project-card">
-
-  <h3>Pinyon Pine–Juniper Community Dynamics</h3>
-
   <div class="photo-row">
     <div class="photo-block">
       <img
@@ -71,12 +67,6 @@ caterpillar and parasitoid species that co-occur together based on precipitation
       />
       <div class="captioned">Field sites</div>
     </div>
-
-
-  <p><strong>Question:</strong> How do climate and disturbance shape arthropod communities?</p>
-  <p><a href="/research/pinyon-pj-dynamics/">Read more →</a></p>
-
-</div>
 
 
 ## Status
