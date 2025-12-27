@@ -16,6 +16,11 @@ title: Home
 
 [Home](./) · [CV](./cv) · [Research](./research) · <a href="/about/">About</a> •  [Contact](./contact) 
 
+<div class="photo-rotator">
+  <img src="/assets/images/photo1.jpg" alt="Fieldwork in Great Basin">
+  <img src="/assets/images/photo2.jpg" alt="Pinyon–juniper woodland">
+  <img src="/assets/images/photo3.jpg" alt="Caterpillar sampling">
+</div>
 
 
 Welcome! My name is Chloe and I am a 5th year PhD candidate at the University of Nevada, Reno studying how anthropogenic climate change is impacting the community structure of _Pinus monophylla_ found within the Great Basin.
