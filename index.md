@@ -20,9 +20,9 @@ title: Home
   <img src="/assets/images/IMG_2328.JPG" alt="Fieldwork in Great Basin">
   <img src="/assets/images/IMG_2330.JPG" alt="Pinyon–juniper woodland">
   <img src="/assets/images/IMG_2764.JPG" alt="Caterpillar sampling">
-   <img src="/assets/images/IMG_8693.JPG" alt="Caterpillar sampling">
-     <img src="/assets/images/IMG_8717.JPG" alt="Caterpillar sampling">
-    <img src="/assets/images/IMG_9355.JPG" alt="Caterpillar sampling">
+  <img src="/assets/images/IMG_8693.JPG" alt="Caterpillar sampling">
+  <img src="/assets/images/IMG_8717.JPG" alt="Caterpillar sampling">
+  <img src="/assets/images/IMG_9355.JPG" alt="Caterpillar sampling">
 </div>
 
 
