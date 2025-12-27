@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pinyon Pine–Juniper Community Dynamics
+permalink: /research/pinyon-pj-dynamics/
 ---
 
 # Pinyon Pine–Juniper Community Dynamics
