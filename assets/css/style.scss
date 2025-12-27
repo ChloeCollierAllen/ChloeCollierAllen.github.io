@@ -252,3 +252,54 @@ a:hover {
 .photo-column img {
   max-width: 340px;
 }
+
+/* ======================================================
+   FORCE BACKGROUND (theme wrapper override)
+   Paste this at the VERY BOTTOM of your CSS
+====================================================== */
+
+html, body {
+  height: 100% !important;
+  margin: 0 !important;
+}
+
+/* Put the background on html + body (belt + suspenders) */
+html,
+body {
+  background:
+    radial-gradient(circle at 18% 12%, rgba(255,255,255,0.70) 0%, rgba(255,255,255,0.00) 55%),
+    radial-gradient(circle at 78% 110%, rgba(130,100,70,0.12) 0%, rgba(130,100,70,0.00) 60%),
+    radial-gradient(circle at 110% 30%, rgba(80,120,95,0.06) 0%, rgba(80,120,95,0.00) 55%),
+    linear-gradient(180deg, #fbf7ee 0%, #f4efdf 42%, #efe8d2 100%) !important;
+  background-attachment: fixed !important;
+}
+
+/* These are common GitHub Pages theme wrappers that often COVER the body background */
+.wrapper,
+.site,
+.container,
+main,
+#container,
+#main,
+#content,
+#page,
+.page,
+.inner,
+.outer,
+.markdown-body {
+  background: transparent !important;
+}
+
+/* If your theme uses a big “panel” wrapper, give IT the background too */
+.wrapper,
+.outer,
+#container,
+#page {
+  background:
+    radial-gradient(circle at 18% 12%, rgba(255,255,255,0.70) 0%, rgba(255,255,255,0.00) 55%),
+    radial-gradient(circle at 78% 110%, rgba(130,100,70,0.12) 0%, rgba(130,100,70,0.00) 60%),
+    radial-gradient(circle at 110% 30%, rgba(80,120,95,0.06) 0%, rgba(80,120,95,0.00) 55%),
+    linear-gradient(180deg, #fbf7ee 0%, #f4efdf 42%, #efe8d2 100%) !important;
+  background-attachment: fixed !important;
+}
+
