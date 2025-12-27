@@ -70,18 +70,18 @@ caterpillar and parasitoid species that co-occur together based on precipitation
         class="about-photo"
       />
       <div class="captioned">
-        Fieldwork in Great Basin pinyon–juniper woodlands
+    Field sites within the Great Basin
       </div>
     </div>
 
     <div class="photo-block">
       <img
-        src="/assets/images/Supplies.jpeg"
-        alt="Field equipment"
+        src="/assets/images/10m.jpg"
+        alt="Field sites"
         class="about-photo"
       />
       <div class="captioned">
-        Field equipment
+        Ten meter drone image of focal pinyon pine tree
       </div>
     </div>
 
@@ -92,12 +92,12 @@ caterpillar and parasitoid species that co-occur together based on precipitation
 
     <div class="photo-block">
       <img
-        src="/assets/images/Burn.jpeg"
+        src="/assets/images/50m.jpg"
         alt="Burned focal tree"
         class="about-photo"
       />
       <div class="captioned">
-        Focal tree burned from the 2016 Strawberry Fire near Great Basin National Park
+       Fifty meter drone image of focal pinyon pine tree
       </div>
     </div>
 
