@@ -26,8 +26,8 @@ herbivorous arthropods.
 2Peterson, G., Allen, C., and Holling, C. (1998). Ecological resilience, biodiversity, and scale. Ecosystem.1, 6-18. doi: 10.1007/s100219900002.
 3Kitchen, S. (2012). Historical fire regime and forest variability on two eastern GreatBasin fire-sheds (USA). 285: 53-66. https://doi.org/10.1016/j.foreco.2012.08.012
 
-## Research Questions
-1. Is anthropogenic climate change factors such as  fire events and drought associated with lower arthropod diversity in pinyon-juniper communities?
+## Research Question
+Is anthropogenic climate change factors such as  fire events and drought associated with lower arthropod diversity in pinyon-juniper communities?
 
 
 ## Methods
@@ -67,7 +67,6 @@ caterpillar and parasitoid species that co-occur together based on precipitation
       />
       <div class="captioned">Field sites</div>
     </div>
-
 
 ## Status
 Ongoing (2022–present)
