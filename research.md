@@ -85,7 +85,6 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
   <p><a href="#dynamics">Read more →</a></p>
 </div>
 
-<div class="botanical-divider"></div>
 
 <div class="project-card">
   <h3>Pinyon Pine–Juniper Community Dynamics</h3>
@@ -95,8 +94,6 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
   <p><a href="#dynamics">Read more →</a></p>
 </div>
 
-
-<div class="botanical-divider"></div>
 
 <div class="project-card">
   <h3>Pinyon pine volatile organic compound (VOC) profile</h3>
