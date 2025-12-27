@@ -106,7 +106,14 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 
 
 <div class="video-embed">
-  <video class="site-video" controls preload="metadata">
+  <video
+    class="site-video"
+    autoplay
+    muted
+    loop
+    playsinline
+    preload="auto"
+  >
     <source src="/assets/videos/movie_2025-12-27_13-39-05-687.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -114,6 +121,7 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
     Drone overview of pinyon pine–juniper study plot
   </div>
 </div>
+
 
 
 - [Return to Home](./)
