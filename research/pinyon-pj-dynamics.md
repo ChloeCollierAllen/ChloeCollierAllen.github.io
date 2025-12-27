@@ -65,7 +65,7 @@ caterpillar and parasitoid species that co-occur together based on precipitation
   <div class="photo-row">
     <div class="photo-block">
       <img
-        src="/assets/images/sites.jpg"
+        src="/assets/images/sites.png"
         alt="Field equipment"
         class="about-photo"
       />
