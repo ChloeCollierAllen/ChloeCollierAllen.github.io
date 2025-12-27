@@ -107,7 +107,7 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 
 <div class="video-embed">
   <video class="site-video" controls preload="metadata">
-    <source src="/assets/videos/movie_2025-12-26_21-21-03-240.mp4" type="video/mp4">
+    <source src="/assets/videos/movie_2025-12-27_13-39-05-687.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <div class="captioned">
