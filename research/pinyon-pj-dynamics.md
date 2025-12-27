@@ -46,17 +46,7 @@ height and the height of all the pinyon pines within the plot. After this, I bea
 herbaceous plant in the plot to capture any caterpillars present. Lastly, I take plant samples, one
 from the focal tree and one from another pinyon pine within the plot as well as from any plants
 that had a caterpillars present on them, for gas chromatography-mass spectrometry.
-These experimental procedures are designed to understand how the Pinus monophyla
-community structure is being altered due to anthropogenic climate change within the Great
-Basin. To visualize the community interaction networks within my plots, I will construct path
-diagrams and compare them based on burn status and precipitation rates. I will begin by
-gathering my data that will be collected over four field seasons, specifically looking at the
-number and species of caterpillars and parasitoid collected, status of plot (burned or unburned),
-annual precipitation, and health of plots based on crown cover of focal tree and cone count. I will
-then take this data and transform it into a co-occurrence matrix via principal component analysis
-(PCA). I will complete several PCA analyses to understand the relationship between caterpillar
-species and parasitoid species within plots, health of plots, abundance of caterpillars and parasitoids, and 
-caterpillar and parasitoid species that co-occur together based on precipitationlevels and burn status.
+
 
  <div class="photo-row">
 
@@ -117,6 +107,8 @@ caterpillar and parasitoid species that co-occur together based on precipitation
 </div>
 
 <div class="botanical-divider"></div>
+
+##Results
 
 ## Status
 Ongoing (2022–present)
