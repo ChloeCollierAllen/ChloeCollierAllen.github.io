@@ -427,3 +427,9 @@ a:hover {
   display: block;
 }
 
+@media (prefers-reduced-motion: reduce) {
+  .photo-rotator img {
+    animation: none;
+    opacity: 1;
+  }
+}
