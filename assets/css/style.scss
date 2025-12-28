@@ -482,3 +482,43 @@ a:hover {
   .photo-rotator img:first-child { opacity: 1; }
 }
 
+/* ======================================================
+   PROJECT CARDS — ALIGNMENT FIX
+====================================================== */
+
+.project-card {
+  max-width: 860px;        /* aligns all cards evenly */
+  width: 100%;
+  margin: 2rem auto;       /* centers cards horizontally */
+  padding: 1.5rem 1.75rem;
+
+  background: #f6f1e7;
+  border-radius: 14px;
+
+  box-shadow:
+    0 10px 24px rgba(0, 0, 0, 0.12),
+    inset 0 0 0 1px rgba(0, 0, 0, 0.08);
+}
+
+/* Ensure consistent spacing inside cards */
+.project-card h3 {
+  margin-top: 0;
+}
+
+.project-card p {
+  margin: 0.5rem 0;
+}
+
+/* Read more link alignment */
+.project-card .read-more {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-weight: 600;
+  color: #4f7a63;
+  text-decoration: none;
+}
+
+.project-card .read-more:hover {
+  color: #6aa689;
+  text-decoration: underline;
+}
