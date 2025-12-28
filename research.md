@@ -8,28 +8,6 @@ permalink: /research/
   <h1>Research</h1>
 </div>
 
-<div class="photo-row">
-
-<div class="video-embed">
-  <video
-    class="site-video"
-    autoplay
-    muted
-    loop
-    playsinline
-    preload="auto"
-  >
-    <source src="/assets/videos/movie_2025-12-27_13-39-05-687.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <div class="captioned">
-    Drone overview of pinyon pine–juniper study plot
-  </div>
-</div>
-
-
-<div class="botanical-divider"></div>
-
 <div class="project-card">
   <h3>Indigenous Sovereignty of Pinyon Pine</h3>
 
@@ -61,6 +39,27 @@ permalink: /research/
   <p><strong>Approach:</strong> Sample preparation, repeated sampling across gradients, gas-chromatography mass spectrometry (GC-MS).</p>
   <p><strong>Status:</strong> Ongoing (2022–present).</p>
   <p><a href="#dynamics">Read more →</a></p>
+</div>
+
+<div class="botanical-divider"></div>
+
+<div class="photo-row">
+
+<div class="video-embed">
+  <video
+    class="site-video"
+    autoplay
+    muted
+    loop
+    playsinline
+    preload="auto"
+  >
+    <source src="/assets/videos/movie_2025-12-27_13-39-05-687.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div class="captioned">
+    Drone overview of pinyon pine–juniper study plot
+  </div>
 </div>
 
 
