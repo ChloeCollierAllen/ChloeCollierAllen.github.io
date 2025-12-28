@@ -144,7 +144,7 @@ Location: Reno, Nevada
 **Pacific Pharmaceutical Service Scholarship (Fall 2022-Spring 2023)**
 
 
-- [Return to Home](./)
+[Return to Home](./)
 
 
 
