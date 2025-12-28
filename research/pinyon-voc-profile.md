@@ -4,24 +4,18 @@ title: Pinyon Pine Volatile Organic Compound (VOC) Profile
 permalink: /research/pinyon-voc-profile/
 ---
 
-# Pinyon Pine–Juniper Community Dynamics
+# Pinyon Pine Volatile Organic Compound (VOC) Profile
 
 ## Overview
 
-
 ## Research Question
-Is anthropogenic climate change factors such as  fire events and drought associated with lower arthropod diversity in pinyon-juniper communities?
-
+How do climate and disturbance (e.g., fire events and drought) alter volatile organic compounds within pinyon pine?
 
 ## Methods
 
+<div class="photo-row">
 
-
- <div class="photo-row">
-
-  <!-- LEFT COLUMN (STACKED) -->
   <div class="photo-column">
-
     <div class="photo-block">
       <img
         src="/assets/images/sites.png"
@@ -29,55 +23,51 @@ Is anthropogenic climate change factors such as  fire events and drought associa
         class="about-photo"
       />
       <div class="captioned">
-    Field sites within the Great Basin
+        Field sites within the Great Basin
       </div>
     </div>
 
     <div class="photo-block">
       <img
         src="/assets/images/10m.png"
-        alt="Field sites"
+        alt="Ten meter drone image of focal pinyon pine tree"
         class="about-photo"
       />
       <div class="captioned">
         Ten meter drone image of focal pinyon pine tree
       </div>
     </div>
-
   </div>
 
-  <!-- RIGHT COLUMN (STACKED) -->
   <div class="photo-column">
-
     <div class="photo-block">
       <img
         src="/assets/images/50m.png"
-        alt="Burned focal tree"
+        alt="Fifty meter drone image of focal pinyon pine tree"
         class="about-photo"
       />
       <div class="captioned">
-       Fifty meter drone image of focal pinyon pine tree
+        Fifty meter drone image of focal pinyon pine tree
       </div>
     </div>
 
     <div class="photo-block">
       <img
         src="/assets/images/cat.JPG"
-        alt="Plot overview with drone setup"
+        alt="Caterpillar found within one of the field sites in 2022"
         class="about-photo"
       />
       <div class="captioned">
         Caterpillar found within one of the field sites in 2022
       </div>
     </div>
-
   </div>
 
 </div>
 
-  <!-- LEFT COLUMN (STACKED) -->
-  <div class="photo-column">
+<div class="photo-row">
 
+  <div class="photo-column">
     <div class="photo-block">
       <img
         src="/assets/images/chloeresearch.jpeg"
@@ -99,16 +89,13 @@ Is anthropogenic climate change factors such as  fire events and drought associa
         Field equipment
       </div>
     </div>
-
   </div>
 
-  <!-- RIGHT COLUMN (STACKED) -->
   <div class="photo-column">
-
     <div class="photo-block">
       <img
         src="/assets/images/Burn.jpeg"
-        alt="Burned focal tree"
+        alt="Focal tree burned from the 2016 Strawberry Fire near Great Basin National Park"
         class="about-photo"
       />
       <div class="captioned">
@@ -119,30 +106,25 @@ Is anthropogenic climate change factors such as  fire events and drought associa
     <div class="photo-block">
       <img
         src="/assets/images/SCRS_Plot 276_30 meters.JPG"
-        alt="Plot overview with drone setup"
+        alt="Plot overview with ropes set up for drone imaging"
         class="about-photo"
       />
       <div class="captioned">
         Plot overview with ropes set up for drone imaging
       </div>
     </div>
-
   </div>
 
 </div>
 
-
 <div class="botanical-divider"></div>
 
 ## Results
-
-
 
 ## Status
 Ongoing (2022–present)
 
 ## Broader Impacts
 
+[← Back to Research](/research/)
 
-
-[← Back to Research]({{ site.baseurl }}/research/)
