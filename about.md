@@ -75,6 +75,17 @@ I am a native Nevadan and grew up in Reno, where summers were spent at Lake Taho
       </div>
     </div>
 
+<div class="photo-block">
+      <img
+        src="/assets/images/hiking.jpeg"
+        alt="Hiking"
+        class="about-photo"
+      />
+      <div class="captioned">
+       Chloe backpacking the Desolation Wilderness near Lake Tahoe
+      </div>
+    </div>
+
   </div>
 
 </div>
