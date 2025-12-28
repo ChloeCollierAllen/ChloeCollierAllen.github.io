@@ -38,7 +38,10 @@ permalink: /research/
   <p><strong>Question:</strong> How does climate and disturbance alter the volatile organic compounds within pinyon pine? </p>
   <p><strong>Approach:</strong> Sample preparation, repeated sampling across gradients, gas-chromatography mass spectrometry (GC-MS).</p>
   <p><strong>Status:</strong> Ongoing (2022–present).</p>
-  <p><a href="#dynamics">Read more →</a></p>
+ <a href="/research/pinyon-voc-profile/" class="read-more">
+  Read more →
+</a>
+
 </div>
 
 <div class="botanical-divider"></div>
