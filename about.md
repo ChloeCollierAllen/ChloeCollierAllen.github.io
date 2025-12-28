@@ -37,6 +37,17 @@ I am a native Nevadan and grew up in Reno, where summers were spent at Lake Taho
       </div>
     </div>
 
+   <div class="photo-block">
+      <img
+        src="/assets/images/present.jpeg"
+        alt="Dr"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Chloe presenting her poster on her research at Entomology Society of America 2024 in Pheonix, AZ
+      </div>
+    </div>
+
   </div>
 
   <!-- RIGHT COLUMN (STACKED) -->
