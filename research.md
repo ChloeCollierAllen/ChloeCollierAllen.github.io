@@ -123,6 +123,5 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 </div>
 
 
-
-- [Return to Home](/)
+[Return to Home](/)
 
