@@ -19,12 +19,9 @@ permalink: /research/indigenous-sovereignty-pinyon-pine/
 
  <div class="photo-row">
 
-  <!-- LEFT COLUMN (STACKED) -->
-  <div class="photo-column">
-
     <div class="photo-block">
       <img
-        src="/assets/images/sites.png"
+        src="/assets/images/BTNRC.jpg"
         alt="Field sites"
         class="about-photo"
       />
@@ -33,47 +30,6 @@ permalink: /research/indigenous-sovereignty-pinyon-pine/
       </div>
     </div>
 
-    <div class="photo-block">
-      <img
-        src="/assets/images/10m.png"
-        alt="Field sites"
-        class="about-photo"
-      />
-      <div class="captioned">
-        Ten meter drone image of focal pinyon pine tree
-      </div>
-    </div>
-
-  </div>
-
-  <!-- RIGHT COLUMN (STACKED) -->
-  <div class="photo-column">
-
-    <div class="photo-block">
-      <img
-        src="/assets/images/50m.png"
-        alt="Burned focal tree"
-        class="about-photo"
-      />
-      <div class="captioned">
-       Fifty meter drone image of focal pinyon pine tree
-      </div>
-    </div>
-
-    <div class="photo-block">
-      <img
-        src="/assets/images/cat.JPG"
-        alt="Plot overview with drone setup"
-        class="about-photo"
-      />
-      <div class="captioned">
-        Caterpillar found within one of the field sites in 2022
-      </div>
-    </div>
-
-  </div>
-
-</div>
 
 <div class="botanical-divider"></div>
 
