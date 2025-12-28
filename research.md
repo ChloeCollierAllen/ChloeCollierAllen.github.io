@@ -83,7 +83,7 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
   <p><strong>Question:</strong> How have Indigenous groups of the Great Basin historically stewarded pinyon pine and how to collaborate with these indigenous groups to stewards this species?</p>
   <p><strong>Approach:</strong> Historical research, collaborate with Indigenous individuals.</p>
   <p><strong>Status:</strong> Ongoing (2022–present).</p>
-  <p><a href="#dynamics">Read more →</a></p>
+ [Read more →](/research/indigenous-sovereignty-pinyon-pine/)
 </div>
 
 
