@@ -52,7 +52,7 @@ Outside of field season, I’m usually:
 
 **Pinyon–Juniper Community Dynamics**  
 
-**Food Sovereignty & Indigenous Collaboration**  
+**Indigenous Sovereignty of Pinyon Pine**  
 
 **Pinyon Pine Volatile Organic Compound (VOC) Profile** 
 
