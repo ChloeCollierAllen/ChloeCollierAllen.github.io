@@ -1,5 +1,6 @@
 ---
 layout: default
-title: Pinyon Pine–Juniper Community Dynamics
-permalink: /research/Indigenous Sovereignty of Pinyon Pine/
+title: Indigenous Sovereignty of Pinyon Pine
+permalink: /research/indigenous-sovereignty-pinyon-pine/
 ---
+
