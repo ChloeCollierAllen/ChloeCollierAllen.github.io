@@ -51,10 +51,10 @@ Outside of field season, I’m usually:
 ## Current Research
 
 **Pinyon–Juniper Community Dynamics**  
-I study how anthropogenic climate change such as drought and fire shape caterpillar communities, tree health, and terpene levels of _Pinus monophylla_ within the Great Basin.
 
-**Food Sovereignty & Indigenous Partnerships**  
-I collaborate with Indigenous entities to help preserve the culturally important pinyon pine stands and support Tribal food sovereignty initiatives.
+**Food Sovereignty & Indigenous Collaboration**  
+
+**Pinyon Pine Volatile Organic Compound (VOC) Profile** 
 
 <div class="botanical-divider"></div>
 
