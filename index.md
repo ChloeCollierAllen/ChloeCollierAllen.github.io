@@ -14,7 +14,7 @@ title: Home
 
 5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
 
-[Home](./) · [CV](./cv) · [Research](./research) · <a href="/about/">About</a> •  [Contact](./contact) 
+[Home](./) • [CV](./cv) • [Research](./research) • <a href="/about/">About</a> •  [Contact](./contact) 
 
 <div class="photo-rotator">
   <img src="/assets/images/" alt="Fieldwork in Great Basin">
