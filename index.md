@@ -21,8 +21,9 @@ title: Home
   <img src="/assets/images/cat.JPG" alt="Pinyon–juniper woodland">
   <img src="/assets/images/flower.jpeg" alt="Caterpillar sampling">
   <img src="/assets/images/tree.jpeg" alt="Caterpillar sampling">
-  <img src="/assets/images/sites.png" alt="Caterpillar sampling">
-  <img src="/assets/images/IMG_9355.JPG" alt="Caterpillar sampling">
+  <img src="/assets/images/spot.JPG" alt="Caterpillar sampling">
+   <img src="/assets/images/purple.JPG" alt="Caterpillar sampling">
+  <img src="/assets/images/purples.JPG" alt="Caterpillar sampling">
 </div>
 
 
