@@ -80,11 +80,18 @@ means for food sovereignty, Indigenous communities, and ecosystem resilience.
 
 <div class="project-card">
   <h3>Indigenous Sovereignty of Pinyon Pine</h3>
-  <p><strong>Question:</strong> How have Indigenous groups of the Great Basin historically stewarded pinyon pine and how to collaborate with these indigenous groups to stewards this species?</p>
+
+  <p><strong>Question:</strong> How have Indigenous groups of the Great Basin historically stewarded pinyon pine and how to collaborate with these Indigenous groups to steward this species?</p>
+
   <p><strong>Approach:</strong> Historical research, collaborate with Indigenous individuals.</p>
+
   <p><strong>Status:</strong> Ongoing (2022–present).</p>
- [Read more →](/research/indigenous-sovereignty-pinyon-pine/)
+
+  <a href="/research/indigenous-sovereignty-pinyon-pine/" class="read-more">
+    Read more →
+  </a>
 </div>
+
 
 
 <div class="project-card">
