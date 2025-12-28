@@ -46,7 +46,6 @@ Outside of field season, I’m usually:
 - Collaborating with Indigenous entities and federal agencies to help protect the culturally important _Pinus monophylla_ species  
 - Drinking too much coffee and cuddling my dogs  
 
-<div class="botanical-divider"></div>
 
 ## Current Research
 
@@ -56,13 +55,11 @@ Outside of field season, I’m usually:
 
 **Pinyon Pine Volatile Organic Compound (VOC) Profile** 
 
-<div class="botanical-divider"></div>
 
 ## Selected Projects
 
 - **ENSOC 2025 Presentation** – Interaction diversity in pinyon–juniper ecosystems.
-
-<div class="botanical-divider"></div>
+  
 
 ## Contact
 
