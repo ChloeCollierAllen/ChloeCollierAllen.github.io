@@ -86,6 +86,17 @@ I am a native Nevadan and grew up in Reno, where summers were spent at Lake Taho
       </div>
     </div>
 
+    <div class="photo-block">
+      <img
+        src="/assets/images/Ecuador.JPG"
+        alt="Hiking"
+        class="about-photo"
+      />
+      <div class="captioned">
+       Chloe working in the Amazon in Ecuador 
+      </div>
+    </div>
+
   </div>
 
 </div>
