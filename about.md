@@ -8,7 +8,17 @@ permalink: /about/
 
 Hello! 
 
-I am a native Nevadan and grew up in Reno, where summers were spent at Lake Tahoe and winters in the Sierra Nevada Mountains. These landscapes shaped my love for the outdoors. When I am not working, I enjoy skiing and snowboarding, hiking, running, camping, and spending time with my husband and our dogs.
+I am a native Nevadan, born and raised in Reno, where spending summers at Lake Tahoe and winters skiing in the Sierra Nevada fostered a deep appreciation for the landscapes of the Great Basin and beyond. Growing up immersed in these environments shaped both my love of the outdoors and my interest in understanding how humans interact with and depend on ecological systems.
+
+I am currently a fifth-year PhD candidate with a strong background in ecological field research. My academic interests sit at the intersection of ecology, chemistry, anthropolopgy, and community-engaged science. I am particularly interested in how environmental change influences biological communities and how research can be conducted in ways that support local knowledge, stewardship, and food sovereignty.
+
+My research experience includes field-based ecological studies in pinyon pine–juniper ecosystems of the Great Basin, where I have worked on questions related to interaction diversity, insect and plant communities, and post-disturbance ecological dynamics. I am also engaged in quantitative analysis using statistical and Bayesian modeling approaches, and I enjoy translating complex data into accessible insights.
+
+Beyond research, I value service-learning and collaborative work with local and tribal communities, particularly in contexts involving culturally important species such as pinyon pine. I aim to pursue a career that integrates ecological understanding and community-centered approaches to sustainability.
+
+Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping, and spending time with my husband and our dogs!
+
+
 
 <div class="photo-row">
 
