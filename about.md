@@ -20,6 +20,26 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
 
 
 
+---
+layout: default
+title: About
+permalink: /about/
+---
+
+# About Me
+
+Hello!
+
+I am a native Nevadan, born and raised in Reno, where spending summers at Lake Tahoe and winters skiing in the Sierra Nevada fostered a deep appreciation for the landscapes of the Great Basin and beyond. Growing up immersed in these environments shaped both my love of the outdoors and my interest in understanding how humans interact with and depend on ecological systems.
+
+I am currently a fifth-year PhD candidate with a strong background in ecological field research. My academic interests sit at the intersection of ecology, chemistry, anthropology, and community-engaged science. I am particularly interested in how environmental change influences biological communities and how research can be conducted in ways that support local knowledge, stewardship, and food sovereignty.
+
+My research experience includes field-based ecological studies in pinyon pine–juniper ecosystems of the Great Basin, where I have worked on questions related to interaction diversity, insect and plant communities, and post-disturbance ecological dynamics. I am also engaged in quantitative analysis using statistical and Bayesian modeling approaches, and I enjoy translating complex data into accessible insights.
+
+Beyond research, I value service-learning and collaborative work with local and tribal communities, particularly in contexts involving culturally important species such as pinyon pine. I aim to pursue a career that integrates ecological understanding and community-centered approaches to sustainability.
+
+Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping, and spending time with my husband and our dogs!
+
 <div class="photo-row">
 
   <!-- LEFT COLUMN (STACKED) -->
@@ -27,19 +47,19 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
 
     <div class="photo-block">
       <img
-        src="/assets/images/family.jpg"
+        src="{{ site.baseurl }}/assets/images/family.jpg"
         alt="Chloe's family"
         class="about-photo"
       />
       <div class="captioned">
-       Chloe with her husband Cody and their dogs Puma and Cotton
+        Chloe with her husband Cody and their dogs Puma and Cotton
       </div>
     </div>
 
     <div class="photo-block">
       <img
-        src="/assets/images/dr.jpeg"
-        alt="Dr"
+        src="{{ site.baseurl }}/assets/images/dr.jpeg"
+        alt="White coat ceremony"
         class="about-photo"
       />
       <div class="captioned">
@@ -47,23 +67,21 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
       </div>
     </div>
 
-   <div class="photo-block">
+    <div class="photo-block">
       <img
-        src="/assets/images/present.jpeg"
-        alt="Dr"
+        src="{{ site.baseurl }}/assets/images/present.jpeg"
+        alt="Poster presentation"
         class="about-photo"
       />
       <div class="captioned">
-        Chloe presenting her poster on her research at Entomology Society of America 2024 in Pheonix, AZ
+        Chloe presenting her poster on her research at the Entomological Society of America 2024 in Phoenix, AZ
       </div>
     </div>
 
-  </div>
-
-   <div class="photo-block">
+    <div class="photo-block">
       <img
-        src="/assets/images/lung.jpeg"
-        alt="Dr"
+        src="{{ site.baseurl }}/assets/images/lung.jpeg"
+        alt="Volunteering at Reno Pride"
         class="about-photo"
       />
       <div class="captioned">
@@ -78,45 +96,45 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
 
     <div class="photo-block">
       <img
-        src="/assets/images/cohort.jpg"
-        alt="Cohort"
+        src="{{ site.baseurl }}/assets/images/cohort.jpg"
+        alt="EECB cohort"
         class="about-photo"
       />
       <div class="captioned">
-       Chloe with her friends within the EECB program
+        Chloe with her friends within the EECB program
       </div>
     </div>
 
     <div class="photo-block">
       <img
-        src="/assets/images/hiking.jpeg"
-        alt="Hiking"
+        src="{{ site.baseurl }}/assets/images/hiking.jpeg"
+        alt="Backpacking Desolation Wilderness"
         class="about-photo"
       />
       <div class="captioned">
-       Chloe backpacking the Desolation Wilderness near Lake Tahoe
-      </div>
-    </div>
-
-<div class="photo-block">
-      <img
-        src="/assets/images/image0.jpeg"
-        alt="Hiking"
-        class="about-photo"
-      />
-      <div class="captioned">
-       Chloe volunteering with the Lahontan Audubon Society at the 2025 Reno Pride Festival
+        Chloe backpacking the Desolation Wilderness near Lake Tahoe
       </div>
     </div>
 
     <div class="photo-block">
       <img
-        src="/assets/images/Ecuador.JPG"
-        alt="Hiking"
+        src="{{ site.baseurl }}/assets/images/image0.jpeg"
+        alt="Volunteering"
         class="about-photo"
       />
       <div class="captioned">
-       Chloe working in the Amazon in Ecuador 
+        Chloe volunteering with the Lahontan Audubon Society at the 2025 Reno Pride Festival
+      </div>
+    </div>
+
+    <div class="photo-block">
+      <img
+        src="{{ site.baseurl }}/assets/images/Ecuador.JPG"
+        alt="Working in the Amazon in Ecuador"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Chloe working in the Amazon in Ecuador
       </div>
     </div>
 
@@ -124,4 +142,4 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
 
 </div>
 
-[Return to Home](/)
+[Return to Home]({{ site.baseurl }}/)
