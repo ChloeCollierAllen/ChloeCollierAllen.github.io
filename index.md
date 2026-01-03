@@ -26,10 +26,8 @@ title: Home
      <img src="/assets/images/cone.jpeg" alt="Caterpillar sampling">
   <img src="/assets/images/tree.jpeg" alt="Caterpillar sampling">
   <img src="/assets/images/spot.JPG" alt="Caterpillar sampling">
-   <img src="/assets/images/purple.JPG" alt="Caterpillar sampling">
    <img src="/assets/images/mountain.jpeg" alt="Caterpillar sampling">
     <img src="/assets/images/pan.jpeg" alt="Caterpillar sampling">
-  <img src="/assets/images/purples.JPG" alt="Caterpillar sampling">
 </div>
 
 
