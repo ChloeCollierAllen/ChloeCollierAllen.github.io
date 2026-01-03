@@ -13,54 +13,60 @@ How do climate and disturbance (e.g., fire events and drought) alter volatile or
 
 ## Methods
 
+<div class="photo-row">
 
-<div class="photo-block">
-  <img
-    src="{{ site.baseurl }}/assets/images/chem1.jpeg"
-    alt="EECB cohort"
-    class="about-photo"
-  />
-  <div class="captioned">
-    GC-MS vials being prepared for GC-MS run
-  </div>
-</div>
+  <!-- LEFT COLUMN -->
+  <div class="photo-column">
+    <div class="photo-block">
+      <img
+        src="{{ site.baseurl }}/assets/images/chem1.jpeg"
+        alt="GC-MS vial preparation"
+        class="about-photo"
+      />
+      <div class="captioned">
+        GC-MS vials being prepared for GC-MS run
+      </div>
+    </div>
 
-<div class="photo-block">
-  <img
-    src="{{ site.baseurl }}/assets/images/chem2.jpeg"
-    alt="Backpacking Desolation Wilderness"
-    class="about-photo"
-  />
-  <div class="captioned">
-   2 Dram vials labeled and preped for extraction 
-  </div>
-</div>
-
-<div class="photo-block">
-  <img
-    src="{{ site.baseurl }}/assets/images/chem3.jpeg"
-    alt="Volunteering"
-    class="about-photo"
-  />
-  <div class="captioned">
-    Supelco VISIPREP™ 24 vacuum manifold for solid-phase extraction (SPE) being utilized to extract pinyon pine volitiles 
-  </div>
-</div>
-
-<div class="photo-block">
-  <img
-    src="{{ site.baseurl }}/assets/images/chem4.jpeg"
-    alt="Working in the Amazon in Ecuador"
-    class="about-photo"
-  />
-  <div class="captioned">
-    Ground pinyon material 
-  </div>
-</div>
-
+    <div class="photo-block">
+      <img
+        src="{{ site.baseurl }}/assets/images/chem2.jpeg"
+        alt="2 dram vials prepared for extraction"
+        class="about-photo"
+      />
+      <div class="captioned">
+        2-dram vials labeled and prepared for extraction
+      </div>
+    </div>
   </div>
 
+  <!-- RIGHT COLUMN -->
+  <div class="photo-column">
+    <div class="photo-block">
+      <img
+        src="{{ site.baseurl }}/assets/images/chem3.jpeg"
+        alt="SPE vacuum manifold"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Supelco VISIPREP™ 24 vacuum manifold used for solid-phase extraction (SPE) of pinyon pine volatiles
+      </div>
+    </div>
+
+    <div class="photo-block">
+      <img
+        src="{{ site.baseurl }}/assets/images/chem4.jpeg"
+        alt="Ground pinyon material"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Ground pinyon pine material prior to extraction
+      </div>
+    </div>
+  </div>
+
 </div>
+
 
 <div class="botanical-divider"></div>
 
