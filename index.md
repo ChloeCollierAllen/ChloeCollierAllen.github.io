@@ -18,10 +18,12 @@ title: Home
 
 <div class="photo-rotator">
   <img src="/assets/images/" alt="Fieldwork in Great Basin">
+    <img src="/assets/images/de.jpeg" alt="Pinyon–juniper woodland">
    <img src="/assets/images/tent.jpeg" alt="Pinyon–juniper woodland">
   <img src="/assets/images/cat.JPG" alt="Pinyon–juniper woodland">
   <img src="/assets/images/flower.jpeg" alt="Caterpillar sampling">
    <img src="/assets/images/grass.jpeg" alt="Caterpillar sampling">
+     <img src="/assets/images/cone.jpeg" alt="Caterpillar sampling">
   <img src="/assets/images/tree.jpeg" alt="Caterpillar sampling">
   <img src="/assets/images/spot.JPG" alt="Caterpillar sampling">
    <img src="/assets/images/purple.JPG" alt="Caterpillar sampling">
