@@ -16,45 +16,45 @@ How do climate and disturbance (e.g., fire events and drought) alter volatile or
 
 <div class="photo-block">
   <img
-    src="{{ site.baseurl }}/assets/images/cohort.jpg"
+    src="{{ site.baseurl }}/assets/images/chem1.jpeg"
     alt="EECB cohort"
     class="about-photo"
   />
   <div class="captioned">
-    Chloe with her friends within the EECB program
+    GC-MS vials being prepared for GC-MS run
   </div>
 </div>
 
 <div class="photo-block">
   <img
-    src="{{ site.baseurl }}/assets/images/hiking.jpeg"
+    src="{{ site.baseurl }}/assets/images/chem2.jpeg"
     alt="Backpacking Desolation Wilderness"
     class="about-photo"
   />
   <div class="captioned">
-    Chloe backpacking the Desolation Wilderness near Lake Tahoe
+   2 Dram vials labeled and preped for extraction 
   </div>
 </div>
 
 <div class="photo-block">
   <img
-    src="{{ site.baseurl }}/assets/images/image0.jpeg"
+    src="{{ site.baseurl }}/assets/images/chem3.jpeg"
     alt="Volunteering"
     class="about-photo"
   />
   <div class="captioned">
-    Chloe volunteering with the Lahontan Audubon Society at the 2025 Reno Pride Festival
+    Supelco VISIPREP™ 24 vacuum manifold for solid-phase extraction (SPE) being utilized to extract pinyon pine volitiles 
   </div>
 </div>
 
 <div class="photo-block">
   <img
-    src="{{ site.baseurl }}/assets/images/Ecuador.JPG"
+    src="{{ site.baseurl }}/assets/images/chem4.jpeg"
     alt="Working in the Amazon in Ecuador"
     class="about-photo"
   />
   <div class="captioned">
-    Chloe working in the Amazon in Ecuador
+    Ground pinyon material 
   </div>
 </div>
 
