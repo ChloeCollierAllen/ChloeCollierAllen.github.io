@@ -27,7 +27,7 @@ herbivorous arthropods.
 3Kitchen, S. (2012). Historical fire regime and forest variability on two eastern GreatBasin fire-sheds (USA). 285: 53-66. https://doi.org/10.1016/j.foreco.2012.08.012
 
 ## Research Question
-Is anthropogenic climate change factors such as  fire events and drought associated with lower arthropod diversity in pinyon-juniper communities?
+Is anthropogenic climate change factors such as fire and drought events associated with lower arthropod diversity in pinyon-juniper communities?
 
 
 ## Methods
