@@ -178,5 +178,6 @@ Ongoing (2022–present)
 This work informs understanding of pinyon pine community structure and supports conversations
 around Indigenous food sovereignty and land stewardship in the Great Basin.
 
-[← Back to Research]({{ site.baseurl }}/research/)
+<a href="/your-link" class="read-more">Read more →</a>
+
 
