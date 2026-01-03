@@ -67,6 +67,17 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
       </div>
     </div>
 
+     <div class="photo-block">
+      <img
+        src="{{ site.baseurl }}/assets/images/cute.jpg"
+        alt="Volunteering at Reno Pride"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Chloe inspecting a caterpillar while on vacation in North Carolina
+      </div>
+    </div>
+
   </div>
 
   <!-- RIGHT COLUMN (STACKED) -->
@@ -113,6 +124,17 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
       />
       <div class="captioned">
         Chloe working in the Amazon in Ecuador
+      </div>
+    </div>
+
+    <div class="photo-block">
+      <img
+        src="{{ site.baseurl }}/assets/images/Award.jpeg"
+        alt="Working in the Amazon in Ecuador"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Chloe receiving an award from the University of Nevada, Reno's Department of Biology
       </div>
     </div>
 
