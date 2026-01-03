@@ -533,3 +533,35 @@ a:hover {
   word-break: break-word;
 }
 
+.photo-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.photo-column {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.about-photo {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  display: block;
+}
+
+.captioned {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  opacity: 0.85;
+}
+
+/* Mobile layout */
+@media (max-width: 800px) {
+  .photo-row {
+    grid-template-columns: 1fr;
+  }
+}
