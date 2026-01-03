@@ -66,9 +66,7 @@ permalink: /research/
   </div>
 </div>
 
-
-
 <p class="return-home">
-  <a href="{{ '/' | relative_url }}">Return to Home</a>
+  <a href="{{ '/' | relative_url }}" class="read-more">Return to Home</a>
 </p>
 
