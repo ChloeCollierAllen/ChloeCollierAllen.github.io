@@ -78,6 +78,17 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
       </div>
     </div>
 
+     <div class="photo-block">
+      <img
+        src="{{ site.baseurl }}/assets/images/chemcon.jpeg"
+        alt="Volunteering at Reno Pride"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Chloe with Dr. Jeffrey's lab in which she works with at the Chemical Ecology Conference held at Lake Tahoe, Nevada
+      </div>
+    </div>
+
   </div>
 
   <!-- RIGHT COLUMN (STACKED) -->
@@ -135,6 +146,17 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
       />
       <div class="captioned">
         Chloe receiving an award from the University of Nevada, Reno's Department of Biology
+      </div>
+    </div>
+
+       <div class="photo-block">
+      <img
+        src="{{ site.baseurl }}/assets/images/pups.jpg"
+        alt="Working in the Amazon in Ecuador"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Chloe and Cody's dogs Puma (left) and Cotton (right)
       </div>
     </div>
 
