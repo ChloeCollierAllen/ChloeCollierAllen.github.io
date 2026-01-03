@@ -148,13 +148,14 @@ that had a caterpillars present on them, for gas chromatography-mass spectrometr
 
 ## Results
 
-Thus far, I have found that previous winter precipitation  However, more data will be collected in Summer 2026 and updated results will follow.
-
 This structural equation model revealed that caterpillar abundance was influenced by a combination of direct climatic effects, temporal trends, and indirect bottom-up pathways mediated through pinyon pine reproductive output as seen in the figure below. Previous precipitation had a strong negative direct effect on caterpillar abundance (standardized path coefficient = −0.54), indicating lower caterpillar abundance following wetter conditions. Year also exhibited a strong negative effect on caterpillar abundance (−0.44), suggesting a declining temporal trend independent of other predictors. Cone abundance was positively associated with caterpillar abundance (0.18), supporting a bottom-up relationship between host plant reproductive output and herbivore abundance.
 
 Drivers of cone abundance were primarily related to disturbance history and tree characteristics. Years since fire had a strong negative effect on cone abundance (−0.46), whereas tree size had a weak positive effect (0.04). Tree size was positively associated with previous precipitation (0.25), indicating that climatic conditions indirectly influenced cone production through effects on tree growth. Years since fire also had a weak negative direct effect on caterpillar abundance (−0.07), though this effect was small relative to other predictors.
 
 Overall, the model suggests that caterpillar abundance is shaped primarily by direct climatic and temporal effects, with additional indirect influences operating through fire history and host plant reproductive dynamics.
+
+
+More data will be collected in Summer 2026 and updated results will follow.
 
 <div class="photo-block">
   <img
