@@ -79,6 +79,17 @@ that had a caterpillars present on them, for gas chromatography-mass spectrometr
       </div>
     </div>
 
+        <div class="photo-block">
+      <img
+        src="/assets/images/Supplies.jpeg"
+        alt="Field equipment"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Field equipment
+      </div>
+    </div>
+
   </div>
 
   <!-- RIGHT COLUMN (STACKED) -->
@@ -106,14 +117,7 @@ that had a caterpillars present on them, for gas chromatography-mass spectrometr
       </div>
     </div>
 
-  </div>
-
-</div>
-
-  <!-- LEFT COLUMN (STACKED) -->
-  <div class="photo-column">
-
-    <div class="photo-block">
+        <div class="photo-block">
       <img
         src="/assets/images/chloeresearch.jpeg"
         alt="Chloe conducting field research"
@@ -124,18 +128,9 @@ that had a caterpillars present on them, for gas chromatography-mass spectrometr
       </div>
     </div>
 
-    <div class="photo-block">
-      <img
-        src="/assets/images/Supplies.jpeg"
-        alt="Field equipment"
-        class="about-photo"
-      />
-      <div class="captioned">
-        Field equipment
-      </div>
-    </div>
-
   </div>
+
+</div>
 
   <!-- RIGHT COLUMN (STACKED) -->
   <div class="photo-column">
@@ -151,21 +146,22 @@ that had a caterpillars present on them, for gas chromatography-mass spectrometr
       </div>
     </div>
 
-    <div class="photo-block">
-      <img
-        src="/assets/images/SCRS_Plot 276_30 meters.JPG"
-        alt="Plot overview with drone setup"
-        class="about-photo"
-      />
-      <div class="captioned">
-        Plot overview with ropes set up for drone imaging
-      </div>
-    </div>
-
   </div>
 
 </div>
 
+
+
+    <div class="photo-block">
+      <img
+        src="/assets/images/Supplies.jpeg"
+        alt="Field equipment"
+        class="about-photo"
+      />
+      <div class="captioned">
+        Field equipment
+      </div>
+    </div>
 
 <div class="botanical-divider"></div>
 
