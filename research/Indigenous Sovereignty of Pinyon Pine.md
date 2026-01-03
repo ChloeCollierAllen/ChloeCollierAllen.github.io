@@ -32,6 +32,7 @@ How have indigenous groups of the Great Basin historically stewarded *Pinus mono
 <div class="botanical-divider"></div>
 
 ## Results
+Coming soon...
 
 ## Status
 Ongoing (2022–present)
