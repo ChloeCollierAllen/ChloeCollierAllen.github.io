@@ -9,7 +9,7 @@ permalink: /research/pinyon-voc-profile/
 ## Overview
 
 ## Research Question
-How do climate and disturbance (e.g., fire events and drought) alter volatile organic compounds within pinyon pine?
+How does climate and disturbance (e.g., fire events and drought) alter volatile organic compounds within pinyon pine?
 
 ## Methods
 
