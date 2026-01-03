@@ -522,3 +522,14 @@ a:hover {
   color: #6aa689;
   text-decoration: underline;
 }
+
+.bibliography {
+  font-size: 0.85rem;   /* smaller text */
+  line-height: 1.5;
+  margin-top: 2rem;
+}
+
+.bibliography a {
+  word-break: break-word;
+}
+
