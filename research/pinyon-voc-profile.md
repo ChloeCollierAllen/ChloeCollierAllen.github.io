@@ -78,6 +78,9 @@ Coming soon...
 Ongoing (2022–present)
 
 ## Broader Impacts
+This work informs understanding of pinyon pine volitile composition and how it is effected due to anthropogenic climate change factors such as drought and fire.
+
+community structure and supports conversations around Indigenous food sovereignty and land stewardship in the Great Basin.
 
 [← Back to Research](/research/)
 
