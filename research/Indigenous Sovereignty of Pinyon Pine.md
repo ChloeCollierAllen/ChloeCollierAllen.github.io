@@ -12,35 +12,31 @@ Historically, indigenous groups such as the Wa She Shu (Washoe), Numu (Northern 
 ## Research Question
 How have indigenous groups of the Great Basin historically stewarded *Pinus monophyla*? 
 
-
 ## Methods
 
+<div class="photo-row">
 
-
- <div class="photo-row">
-
-    <div class="photo-block">
-      <img
-        src="/assets/images/BTNRC.jpg"
-        alt="Field sites"
-        class="about-photo"
-      />
-      <div class="captioned">
-    Bi-State Tribal Natural Resources Committee
-      </div>
+  <div class="photo-block">
+    <img
+      src="{{ '/assets/images/BTNRC.jpg' | relative_url }}"
+      alt="Field sites"
+      class="about-photo"
+    />
+    <div class="captioned">
+      Bi-State Tribal Natural Resources Committee
     </div>
+  </div>
 
+</div> <!-- ✅ CLOSE photo-row -->
 
 <div class="botanical-divider"></div>
 
 ## Results
-
-
 
 ## Status
 Ongoing (2022–present)
 
 ## Broader Impacts
 
+[← Back to Research]({{ '/research/' | relative_url }})
 
-[← Back to Research]({{ site.baseurl }}/research/)
