@@ -72,6 +72,8 @@ How do climate and disturbance (e.g., fire events and drought) alter volatile or
 
 ## Results
 
+Coming soon...
+
 ## Status
 Ongoing (2022–present)
 
