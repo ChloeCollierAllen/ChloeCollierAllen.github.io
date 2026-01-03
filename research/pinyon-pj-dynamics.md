@@ -22,9 +22,13 @@ are altering the community structure involving pinyon pines, the herbivorous art
 utilize pine as a food resource, and vertebrates, such as the pinyon pine jay, that feed on the
 herbivorous arthropods.
 
+<div class="bibliography">
+
 1Weltz, M. et. al. (2014) Cheatgrass Invasion and Woody Species Encroachment in the Great Basin: Benefits of Conservation. Journal of Soil and Water Conservation. 69(2). 39A-44A. DOI: https://doi.org/10.2489/jswc.69.2.39A.
 2Peterson, G., Allen, C., and Holling, C. (1998). Ecological resilience, biodiversity, and scale. Ecosystem.1, 6-18. doi: 10.1007/s100219900002.
 3Kitchen, S. (2012). Historical fire regime and forest variability on two eastern GreatBasin fire-sheds (USA). 285: 53-66. https://doi.org/10.1016/j.foreco.2012.08.012
+
+</div>
 
 ## Research Question
 Is anthropogenic climate change factors such as fire and drought events associated with lower arthropod diversity in pinyon-juniper communities?
