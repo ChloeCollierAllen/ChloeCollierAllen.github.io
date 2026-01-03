@@ -128,13 +128,6 @@ that had a caterpillars present on them, for gas chromatography-mass spectrometr
       </div>
     </div>
 
-  </div>
-
-</div>
-
-  <!-- RIGHT COLUMN (STACKED) -->
-  <div class="photo-column">
-
     <div class="photo-block">
       <img
         src="/assets/images/Burn.jpeg"
