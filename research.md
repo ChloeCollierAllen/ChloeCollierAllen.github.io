@@ -46,6 +46,7 @@ permalink: /research/
 
 <div class="botanical-divider"></div>
 
+
 <div class="photo-row">
 
 <div class="video-embed">
@@ -64,6 +65,7 @@ permalink: /research/
     Drone overview of pinyon pine–juniper study plot
   </div>
 </div>
+
 
 
 <p class="return-home">
