@@ -151,18 +151,6 @@ that had a caterpillars present on them, for gas chromatography-mass spectrometr
 </div>
 
 
-
-    <div class="photo-block">
-      <img
-        src="/assets/images/Supplies.jpeg"
-        alt="Field equipment"
-        class="about-photo"
-      />
-      <div class="captioned">
-        Field equipment
-      </div>
-    </div>
-
 <div class="botanical-divider"></div>
 
 ## Results
