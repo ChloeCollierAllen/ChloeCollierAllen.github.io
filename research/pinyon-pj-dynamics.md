@@ -14,9 +14,9 @@ this is resulting in desiccated pinyon pine and juniper communities. The increas
 vegetation has led to a greater incidence of fires. Wildfires in the pinyon-juniper community in
 the Great Basin have burned for longer periods of time and have been hotter due to drought
 conditions. The aftermath of these intense fires is an alteration to the ecosystem with invasive
-species such as cheat grass invading burned areas (Weltz et al. 20141). The diversity of this
+species such as cheat grass invading burned areas.1 The diversity of this
 ecosystem was historically maintained by regular disturbance events such as fire within pinyon
-pine and associated forests (Peterson 19982) (Kitchen 20123). However, with climate change
+pine and associated forests.2,3 However, with climate change
 altering the delicate balance of this community, factors such as intense fire events and drought
 are altering the community structure involving pinyon pines, the herbivorous arthropods that
 utilize pine as a food resource, and vertebrates, such as the pinyon pine jay, that feed on the
@@ -31,12 +31,12 @@ herbivorous arthropods.
 </div>
 
 ## Research Question
-Is anthropogenic climate change factors such as fire and drought events associated with lower arthropod diversity in pinyon-juniper communities?
+Is anthropogenic climate change factors such as fire and drought events associated with lower arthropod diversity in pinyon-juniper communities of the Great Basin?
 
 
 ## Methods
 The object of this study is to determine the impact anthropogenic climate change factors
-such as extreme fire events and drought have on the growth, cone production, herbivory by
+such as fire events and drought have on the growth, cone production, herbivory by
 lepidopteran caterpillars, density of associated shrubs and junipers, and terpene production by
 pinyon pines. This multi-year field research involves the selection of nine locations that are
 either unburned or burned on a continuous time scale from the year 2000 to 2019 across the
@@ -144,8 +144,6 @@ that had a caterpillars present on them, for gas chromatography-mass spectrometr
 </div>
 
 
-<div class="botanical-divider"></div>
-
 ## Results
 
 This structural equation model revealed that caterpillar abundance was influenced by a combination of direct climatic effects, temporal trends, and indirect bottom-up pathways mediated through pinyon pine reproductive output as seen in the figure below. Previous precipitation had a strong negative direct effect on caterpillar abundance (standardized path coefficient = −0.54), indicating lower caterpillar abundance following wetter conditions. Year also exhibited a strong negative effect on caterpillar abundance (−0.44), suggesting a declining temporal trend independent of other predictors. Cone abundance was positively associated with caterpillar abundance (0.18), supporting a bottom-up relationship between host plant reproductive output and herbivore abundance.
@@ -175,8 +173,7 @@ More data will be collected in Summer 2026 and updated results will follow.
 Ongoing (2022–present)
 
 ## Broader Impacts
-This work informs understanding of pinyon pine community structure and supports conversations
-around Indigenous food sovereignty and land stewardship in the Great Basin.
+This work informs on how anthropogenic climate change is altering pinyon pine community structure within the Great Basin of Nevada.
 
 [← Back to Research]({{ '/research/' | relative_url }})
 
