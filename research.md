@@ -11,7 +11,7 @@ permalink: /research/
 <div class="project-card">
   <h3>Indigenous Sovereignty of Pinyon Pine</h3>
 
-  <p><strong>Question:</strong> How have Indigenous groups of the Great Basin historically stewarded pinyon pine and how to collaborate with these Indigenous groups to steward this species?</p>
+  <p><strong>Question:</strong> How have Indigenous groups of the Great Basin historically stewarded pinyon pine and how can we collaborate with these Indigenous groups to steward this species?</p>
 
   <p><strong>Approach:</strong> Historical research, collaborate with Indigenous individuals.</p>
 
@@ -25,7 +25,7 @@ permalink: /research/
 <div class="project-card">
   <h3>Pinyon Pine–Juniper Community Dynamics</h3>
 
-  <p><strong>Question:</strong> How do climate and disturbance shape arthropod communities and tree health?</p>
+  <p><strong>Question:</strong> How does climate and disturbance shape arthropod communities and tree health?</p>
 
   <p><strong>Approach:</strong> Field surveys, repeated sampling across gradients, community analysis.</p>
 
