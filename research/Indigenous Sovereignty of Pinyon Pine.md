@@ -13,7 +13,7 @@ Historically, indigenous groups such as the Wa She Shu (Washoe), Numu (Northern 
 How have indigenous groups of the Great Basin historically stewarded *Pinus monophyla* and how can we as a scientific community collaborate with these Indigenous entities in a diginfied manner to conserve this culturally important species? 
 
 ## Methods
-For historical reference to Indigenous groups of the Great Basin and how they relate to pinyon pine, textual resoutces found through the University of Nevada,s library were utilized. Such sources include: 
+For historical reference to Indigenous groups of the Great Basin and how they relate to pinyon pine, textual references found through the University of Nevada's library were utilized. Such sources include: 
 
 Wa she shu : a Washo tribal history.
 Nevers, Jo Ann
@@ -31,6 +31,12 @@ Washo tales
 Dangberg, Grace
 1968
 
+
+For collabortive opportunities, I am a member of the Bi-State Tribal Natural Resources Committee. The Bi-State Tribal Natural Resources Committee (BTNRC) is a Tribally convened and led group composed of official representatives from Tribes in the Bi-State area, individual Tribal members, and representatives of Bi-State land and wildlife management agency units who are ex-officio members.
+
+The mission of the BTNRC is to promote, protect, and preserve good management of lands in the Bi-State area through advocacy and education using a holistic approach.
+
+The purpose of the BTNRC is to educate and facilitate communication between Tribes and land and wildlife management agencies.
 
 <div class="photo-row">
 
