@@ -52,7 +52,7 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
         class="about-photo"
       />
       <div class="captioned">
-        Chloe presenting her poster on her research at the Entomological Society of America 2024 in Phoenix, AZ
+        Chloe presenting her research at the Entomological Society of America 2024 in Phoenix, AZ
       </div>
     </div>
 
@@ -63,7 +63,7 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
         class="about-photo"
       />
       <div class="captioned">
-        Chloe with her husband, Cody, volunteering at the 2025 Reno Pride Festival
+        Chloe with her husband, Cody, volunteering at the 2024 Reno Pride Festival
       </div>
     </div>
 
