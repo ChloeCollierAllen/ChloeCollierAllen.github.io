@@ -9,7 +9,7 @@ You can reach me at:
 
 - **Email:** chloecollier673@gmail.com 
 - **GitHub:** [@ChloeCollierAllen](https://github.com/ChloeCollierAllen)  
-- **LinkedIn:** [Chloe Collier-Allen](https://www.linkedin.com/in/chloe-collier-7632491a9/)  
+- **LinkedIn:** [Chloe Collier-Allen](https://www.linkedin.com/in/chloe-collier-allen-7632491a9/)
 
 
 ## Where to next?
