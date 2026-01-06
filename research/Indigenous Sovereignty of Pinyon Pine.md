@@ -7,13 +7,31 @@ permalink: /research/indigenous-sovereignty-pinyon-pine/
 # Indigenous Sovereignty of Pinyon Pine
 
 ## Overview
-Historically, indigenous groups such as the Wa She Shu (Washoe), Numu (Northern Paiute), and Newe (Shoshone) have been stewards to regions of the Great Basin they inhabited and have cultivated a strong connection to the land. One such culturally important species is the single leafed pinyon pine (Pinus monophyla) as it provided much needed sustenance during harsh winters. However, due to factors such as cultural assimilation, loss of land, declining resource availability, and anthropogenic climate change leading to lower masting events, several indigenous groups have been stunted or have completely lost their connection to this culturally important resource. This loss of stewardship has led to decline of biodiversity within the pinyon pine-juniper community. Such losses include herbivorous arthropods that utilize pinyon-juniper communities as a food resource. I plan to quantify the interactions between anthropogenic climate change factors, loss of indigenous stewardship, and herbivorous arthropod populations. 
+Historically, indigenous groups such as the Wa She Shu (Washoe), Numu (Northern Paiute), and Newe (Shoshone) have been stewards to regions of the Great Basin they inhabited and have cultivated a strong connection to the land. One such culturally important species is the single leafed pinyon pine (*Pinus monophyla*) as it provided much needed sustenance during harsh winters. However, due to factors such as cultural assimilation, loss of land, declining resource availability, and anthropogenic climate change leading to lower masting events, several indigenous groups have been stunted or have completely lost their connection to this culturally important resource. This loss of stewardship has led to decline of biodiversity within the pinyon pine-juniper community. Such losses include herbivorous arthropods that utilize pinyon-juniper communities as a food resource. I plan to quantify the interactions between anthropogenic climate change factors, loss of indigenous stewardship, and herbivorous arthropod populations. 
 
 ## Research Question
-How have indigenous groups of the Great Basin historically stewarded *Pinus monophyla*? 
+How have indigenous groups of the Great Basin historically stewarded *Pinus monophyla* and how can we as a scientific community collaborate with these Indigenous entities in a diginfied manner to conserve this culturally important species? 
 
 ## Methods
-Due to recent government cuts, this project is paused indefinitely. 
+For historical reference to Indigenous groups of the Great Basin and how they relate to pinyon pine, textual resoutces found through the University of Nevada,s library were utilized. Such sources include: 
+
+Wa she shu : a Washo tribal history.
+Nevers, Jo Ann
+1976
+
+The two worlds of the Washo : an Indian tribe of California and Nevada
+Downs, James F.
+1966
+
+The Washoe Indians 
+Gardner, David and Nancy Gardner
+1969
+
+Washo tales 
+Dangberg, Grace
+1968
+
+
 <div class="photo-row">
 
   <div class="photo-block">
