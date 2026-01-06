@@ -55,7 +55,6 @@ The purpose of the BTNRC is to educate and facilitate communication between Trib
 
 </div> <!-- ✅ CLOSE photo-row -->
 
-<div class="botanical-divider"></div>
 
 ## Results
 Coming soon...
