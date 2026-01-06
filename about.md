@@ -63,7 +63,7 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
         class="about-photo"
       />
       <div class="captioned">
-        Chloe with her husband, Cody, volunteering at the 2024 Reno Pride Festival
+        Chloe with her husband, Cody, volunteering at the 2025 Reno Pride Festival
       </div>
     </div>
 
@@ -123,7 +123,7 @@ Outside of academics, I enjoy skiing and snowboarding, hiking, running, camping,
         class="about-photo"
       />
       <div class="captioned">
-        Chloe volunteering with the Lahontan Audubon Society at the 2025 Reno Pride Festival
+        Chloe volunteering with the Lahontan Audubon Society at the 2024 Reno Pride Festival
       </div>
     </div>
 
