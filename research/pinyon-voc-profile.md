@@ -69,8 +69,6 @@ How does climate and disturbance (e.g., fire events and drought) alter volatile 
 </div>
 
 
-<div class="botanical-divider"></div>
-
 ## Results
 
 Coming soon...
