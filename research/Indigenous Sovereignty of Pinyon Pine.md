@@ -15,21 +15,22 @@ How have indigenous groups of the Great Basin historically stewarded *Pinus mono
 ## Methods
 For historical reference to Indigenous groups of the Great Basin and how they relate to pinyon pine, textual references found through the University of Nevada's library were utilized. Such sources include: 
 
-Wa she shu : a Washo tribal history.
-Nevers, Jo Ann
-1976
+-Wa she shu : a Washo tribal history.
+ Nevers, Jo Ann
+ 1976
 
-The two worlds of the Washo : an Indian tribe of California and Nevada
-Downs, James F.
-1966
+-The two worlds of the Washo : an Indian tribe of California and Nevada
+ Downs, James F.
+ 1966
 
-The Washoe Indians 
-Gardner, David and Nancy Gardner
-1969
+-The Washoe Indians 
+ Gardner, David and Nancy Gardner
+ 1969
 
-Washo tales 
-Dangberg, Grace
-1968
+-Washo tales 
+ Dangberg, Grace
+ 1968
+
 
 
 For collabortive opportunities, I am a member of the Bi-State Tribal Natural Resources Committee.
