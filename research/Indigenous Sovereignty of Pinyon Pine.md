@@ -40,6 +40,8 @@ The mission of the BTNRC is to promote, protect, and preserve good management of
 
 The purpose of the BTNRC is to educate and facilitate communication between Tribes and land and wildlife management agencies.
 
+More information may be found here: https://btnrc.monolaketribe.us
+
 <div class="photo-row">
 
   <div class="photo-block">
