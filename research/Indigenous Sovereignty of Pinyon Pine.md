@@ -32,7 +32,9 @@ Dangberg, Grace
 1968
 
 
-For collabortive opportunities, I am a member of the Bi-State Tribal Natural Resources Committee. The Bi-State Tribal Natural Resources Committee (BTNRC) is a Tribally convened and led group composed of official representatives from Tribes in the Bi-State area, individual Tribal members, and representatives of Bi-State land and wildlife management agency units who are ex-officio members.
+For collabortive opportunities, I am a member of the Bi-State Tribal Natural Resources Committee.
+
+The Bi-State Tribal Natural Resources Committee (BTNRC) is a Tribally convened and led group composed of official representatives from Tribes in the Bi-State area, individual Tribal members, and representatives of Bi-State land and wildlife management agency units who are ex-officio members.
 
 The mission of the BTNRC is to promote, protect, and preserve good management of lands in the Bi-State area through advocacy and education using a holistic approach.
 
