@@ -8,7 +8,7 @@ title: CV
 ## Contact
 
 **Chloe Collier Allen**  
-5th Year PhD Candidate within the Ecology, Evolution, and Conservation Biology Program 
+6th Year Ph.D. Candidate within the Ecology, Evolution, and Conservation Biology Program 
 
 University of Nevada, Reno
 
