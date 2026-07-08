@@ -33,7 +33,7 @@ Location: Reno, Nevada
 
 
 ## Education
-**University of Nevada: PhD of Ecology, Evolution, and Conservation Biology (2021-current)**  
+**University of Nevada: Ph.D. of Ecology, Evolution, and Conservation Biology (2021-current)**  
 -Studying community structure of pinyon pine groves within the Great Basin through arthropod community structure
 -Working in chemical spectroscopy lab to analyze terpene diversity within pinyon pine needle samples
 -Working with indigenous groups of the Great Basin to collaborate on historical stewardship practices and how they are affecting groves today and how these practices could be implemented in the future
@@ -140,7 +140,7 @@ Location: Reno, Nevada
 ## Scholarships, Fellowships, and Grants 
 **Diana Hadley-Lynch Scholarship (Fall 2024-Spring 2025)**
 
-**Nevada Women’s Fund Scholarship (Fall 2022-Spring 2025)** 
+**Nevada Women’s Fund Scholarship (Fall 2022-Spring 2027)** 
 
 **Hitchcock Chemical Ecology Center Fellowship (Summer 2023-Spring 2024)**
 
