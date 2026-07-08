@@ -12,7 +12,7 @@ title: Home
   >
 </div>
 
-5th Year PhD Candidate • Ecology • Chemistry • Anthropology  
+6th Year Ph.D. Candidate • Ecology • Chemistry • Anthropology  
 
 [Home](./) • [CV](./cv) • [Research](./research) • <a href="/about/">About</a> •  [Contact](./contact) 
 
